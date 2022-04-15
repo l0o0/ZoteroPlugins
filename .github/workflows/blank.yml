@@ -1,0 +1,87 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  schedule:
+  - cron: "1 1 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      
+      - name: Create dir and git init
+        run: |
+          [[ ! -d tmp ]] && mkdir tmp
+          [[ ! -d plugins ]] && mkdir plugins
+          ls ./
+          ls tmp/
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: Read source.txt
+        run: |
+          # Loop
+          cat source.txt | while read line;
+          do
+            [[ $line =~ ^#.* ]] && continue
+            repo=`echo $line | cut -d '|' -f 3`
+            echo $repo
+
+            # Find API URL
+            apiUrl=`echo $repo | sed 's/github.com/api.github.com\/repos/'`"/releases/latest"
+            echo $apiUrl
+
+            # Download release zip
+            curl --request GET \
+              --url ${apiUrl} \
+              --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+              --header 'content-type: application/json' | \
+              grep "browser_download_url" | cut -d : -f 2,3 | tr -d \" | wget -P tmp -qi -
+            
+            ls tmp/
+            # MD5 
+            md5Out=`md5sum tmp/*.xpi`
+            echo $md5Out"-"
+            md5String=`echo $md5Out | cut -d ' ' -f 1`
+            wc -l md5check.txt
+
+            # Check file if exists by md5 value
+            echo $md5String"--"
+
+            if grep -q $md5String md5check.txt  # File is downloaded
+            then
+              echo $repo" released downloaded"
+              rm tmp/*.xpi  # Remove downloaded file
+            else
+              # Add new value to md5check.txt
+              echo $md5Out >> md5check.txt
+              wc -l md5check.txt
+              # Keep latest version
+              xpifile=`ls tmp/*.xpi`
+              mv ${xpifile} plugins/
+              git add plugins
+              git commit -m "Upload ${xpifile#tmp/}"
+              git add md5check.txt
+              git commit -m "Update md5check.txt, ${xpifile#tmp/} md5sum value"
+              git push origin main
+            fi
+          done
+
+        
+      - name: List files
+        run: ls -al ./
+
+
