@@ -1,0 +1,1 @@
+2cfd09675c2fd6a641e29ebcece17493 tmp/jasminum-v0.1.6.xpi
