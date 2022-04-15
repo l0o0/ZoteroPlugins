@@ -4,3 +4,4 @@ a0c9b28e9b4cc658d679ccdc04ae01b0 tmp/zotfile-5.1.1-fx.xpi
 4e15ecaf0df17f1b1053cb96a5f8ddd7 tmp/delitemwithatt.xpi
 b32944c2cbf662d4e927e9f99ad84bf0 tmp/zotero-updateifs.xpi
 fdaa1e7a374680210c7e72d238a9d6f2 tmp/zotero-ocr-0.5.0.xpi
+940d2a3c720af4c89b4a040bd6780626 tmp/zotero-tag.xpi
