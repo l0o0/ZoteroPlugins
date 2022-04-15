@@ -1,1 +1,2 @@
 2cfd09675c2fd6a641e29ebcece17493 tmp/jasminum-v0.1.6.xpi
+a0c9b28e9b4cc658d679ccdc04ae01b0 tmp/zotfile-5.1.1-fx.xpi
