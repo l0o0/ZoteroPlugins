@@ -68,7 +68,7 @@ for plugin in plugins:
     new_plugins_source.append(plugin)
 
     # Add & commit plugin
-    os.system("git add %s")
+    os.system("git add %s" % local_filename)
     os.system("git commit -m 'Add %s'" % local_filename)
 
 # Update source.txt
