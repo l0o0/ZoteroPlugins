@@ -35,7 +35,7 @@ for plugin in plugins:
     tag_name = json_data['tag_name']
 
     # Check update time, skip if latest version is downloaded
-    if update_time <= last_update_time:
+    if last_update_time != None and update_time <= last_update_time:
         print("Skip %s %s <= %s" % (plugin_name, update_time, last_update_time))
         new_plugins_source.append(plugin)
         continue
