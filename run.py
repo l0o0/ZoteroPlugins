@@ -1,3 +1,4 @@
+import re
 import os
 import requests
 
@@ -53,7 +54,7 @@ for plugin in plugins:
 
     # Download file
     local_filename = os.path.join(plugin_dir, os.path.basename(download_url))
-    if not tag_name in local_filename:
+    if not re.sub("[vV]", '', tag_name) in local_filename:
         local_filename = "%s_%s.xpi" % (local_filename.replace(".xpi", ""), tag_name)
     with requests.get(download_url, stream=True) as r:
         print("Downloading %s to %s" % (download_url, local_filename))
