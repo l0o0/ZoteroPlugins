@@ -1,5 +1,5 @@
 import os
 import requests
 
-token = os.envget("TOKEN")
+token = os.getenv("TOKEN")
 print(token)
