@@ -6,3 +6,4 @@ b32944c2cbf662d4e927e9f99ad84bf0 tmp/zotero-updateifs.xpi
 fdaa1e7a374680210c7e72d238a9d6f2 tmp/zotero-ocr-0.5.0.xpi
 940d2a3c720af4c89b4a040bd6780626 tmp/zotero-tag.xpi
 075030b57b018689720fabe4bfdf8830 tmp/zotero-pdf-translate.xpi
+11acfc9e698443f2abd95801f9c1b3d6 tmp/zotero-updateifs.xpi
