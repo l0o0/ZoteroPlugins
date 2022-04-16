@@ -12,12 +12,13 @@ headers = {
 
 # Read source.txt to a list
 with open("source.txt") as handle:
-    plugins = [_i.split("|") for _i in handle.readlines()]
+    plugins = [_i.strip().split("|") for _i in handle.readlines()]
 
 # Loop all plugin in source.txt
 new_plugins_source = []
 update_flag = 0
 for plugin in plugins:
+    print(plugin)
     plugin_name = plugin[0].replace(" ", '_').lower()
     desc = plugin[1]
     repo_url = plugin[2]
