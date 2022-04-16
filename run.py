@@ -18,12 +18,14 @@ with open("source.txt") as handle:
 new_plugins_source = []
 update_flag = 0
 for plugin in plugins:
+    if len(plugin) == 4:
+        plugin.insert(4, None) 
     print(plugin)
     plugin_name = plugin[0].replace(" ", '_').lower()
     desc = plugin[1]
     repo_url = plugin[2]
     home_page = plugin[3]
-    last_update_time = None if len(plugin) == 4 else datetime.strptime(plugin[4], "%Y-%m-%d %H:%M:%S")
+    last_update_time = datetime.strptime(plugin[4], "%Y-%m-%d %H:%M:%S")
     api_url = repo_url.replace("github.com", "api.github.com/repos") + "/releases/latest"
     print("%s %s" % (plugin_name, api_url))
 
