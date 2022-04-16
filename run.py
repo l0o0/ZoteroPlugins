@@ -31,7 +31,7 @@ for plugin in plugins:
 
     resp = requests.get(api_url, headers=headers)
     json_data = resp.json()
-    print(json_data)
+    # print(json_data)
     download_url = json_data['assets'][0]['browser_download_url']
     update_time = datetime.strptime(json_data['assets'][0]['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
     tag_name = json_data['tag_name']
