@@ -12,7 +12,7 @@ headers = {
 
 # Read source.txt to a list
 with open("source.txt") as handle:
-    plugins = [_i.strip().split("|") for _i in handle.readlines()]
+    plugins = [_i.strip().split("|") for _i in handle.readlines() if not _i.startswith("#")]
 
 # Loop all plugin in source.txt
 new_plugins_source = []
