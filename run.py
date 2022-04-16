@@ -4,7 +4,7 @@ import requests
 # 
 token = os.getenv("TOKEN")
 headers = {
-    "authorization": "Bearer %s" % TOKEN,
+    "authorization": "Bearer %s" % token,
     "content-type": "application/json"
 }
 
