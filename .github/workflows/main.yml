@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Update
 
 # Controls when the workflow will run
 on:
@@ -18,6 +18,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      - name: Install packages
+        run: |
+          pip install requests
       - uses: actions/setup-python@v3
         with:
           python-version: '3.8' # Version range or exact version of a Python version to use, using SemVer's version range syntax
