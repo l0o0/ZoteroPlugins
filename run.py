@@ -14,7 +14,7 @@ headers = {
 with open("source.txt") as handle:
     plugins = [_i.strip().split("|") for _i in handle.readlines() if not _i.startswith("#")]
 
-# Loop all plugin in source.txt
+# Loop all plugins in source.txt
 new_plugins_source = []
 update_flag = 0
 for plugin in plugins:
