@@ -24,7 +24,7 @@ for plugin in plugins:
     repo_url = plugin[2]
     home_page = plugin[3]
     last_update_time = None if len(plugin) == 4 else datetime.strptime(plugin[4], "%Y-%m-%d %H:%M:%S")
-    api_url = repo_url.replace("github.com", "api.github.com/repos/") + "releases/latest"
+    api_url = repo_url.replace("github.com", "api.github.com/repos") + "/releases/latest"
     print("%s %s" % (plugin_name, api_url))
 
     resp = requests.get(api_url, headers=headers)
