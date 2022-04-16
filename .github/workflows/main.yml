@@ -21,6 +21,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: Install packages
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}'
         run: |
-          pip install requests
           python run.py
