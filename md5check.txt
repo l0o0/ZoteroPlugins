@@ -8,3 +8,4 @@ fdaa1e7a374680210c7e72d238a9d6f2 tmp/zotero-ocr-0.5.0.xpi
 075030b57b018689720fabe4bfdf8830 tmp/zotero-pdf-translate.xpi
 11acfc9e698443f2abd95801f9c1b3d6 tmp/zotero-updateifs.xpi
 ca2c7466a3c203c953a69d5d09c8695a tmp/zotero-pdf-translate.xpi
+28f0f93908dfea3cdc20ad38fce0070c tmp/keepzotero-0.0.2-fx.xpi
