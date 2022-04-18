@@ -78,7 +78,7 @@ for plugin in plugins:
         resp = requests.get(releases_url, headers=headers)
         # resp = requests.get(releases_url)
         json_datas = resp.json()
-        print(json_datas)
+        # print(json_datas)
         for _i, json_data in enumerate(json_datas):
             if _i == 5:
                 break
