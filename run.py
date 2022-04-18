@@ -133,8 +133,8 @@ for plugin in plugins:
 # Update source.txt and markdown file
 if update_flag == 1:
     source = ["|".join(_i) + '\n' for _i in new_plugins_source]
-    with open("source.txt", 'w') as handle:
-        handle.writelines(source, encoding='utf-8')
+    with open("source.txt", 'w', encoding='utf-8') as handle:
+        handle.writelines(source)
 
     # Add & commit source.txt
     os.system("git add source.txt")
@@ -148,8 +148,8 @@ if update_flag == 1:
     for plugin in new_plugins_source:
         download_link = "https://cdn.jsdelivr.net/gh/l0o0/ZoteroPlugin@main/plugins/%s/%s" % (plugin[0], plugin[5])
         markdown += "| %s | %s | [🔗](%s) | 📅%s | [💻](%s) | [🏠](%s) |\n" % (plugin[0], plugin[1], download_link, plugin[4], plugin[2], plugin[3])
-    with open("readme.md", 'w') as handle:
-        handle.write(markdown, encoding='utf-8')
+    with open("readme.md", 'w', encoding='utf-8') as handle:
+        handle.write(markdown)
     os.system("git add readme.md")
     os.system("git commit -m 'Update readme.md %s'" % datetime.now())
     os.system("git push origin main")
