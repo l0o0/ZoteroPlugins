@@ -80,6 +80,8 @@ for plugin in plugins:
         json_datas = resp.json()
         print(json_datas)
         for _i, json_data in enumerate(json_datas):
+            if _i == 5:
+                break
             download_url = json_data['assets'][0]['browser_download_url']
             update_time = datetime.strptime(json_data['assets'][0]['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             tag_name = json_data['tag_name']
