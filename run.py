@@ -80,9 +80,6 @@ for plugin in plugins:
         json_datas = resp.json()
         print(json_datas)
         for _i, json_data in enumerate(json_datas):
-            if _i == 0:
-                plugin[5] = os.path.basename(local_filename)
-
             download_url = json_data['assets'][0]['browser_download_url']
             update_time = datetime.strptime(json_data['assets'][0]['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             tag_name = json_data['tag_name']
@@ -92,6 +89,8 @@ for plugin in plugins:
 
             local_filename = getFielName(plugin_dir, download_url, tag_name)
             downloadFile(download_url, local_filename)
+            if _i == 0:
+                plugin[5] = os.path.basename(local_filename)
 
         os.system("git add %s" % os.path.join("plugins", plugin_name))
         os.system("git commit -m 'Add %s'" % plugin_name)
