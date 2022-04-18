@@ -146,7 +146,7 @@ if update_flag == 1:
     markdown += "| ----- | ----- | ----- | ----- | ----- | ----- |\n"
     
     for plugin in new_plugins_source:
-        download_link = "https://cdn.jsdelivr.net/gh/l0o0/ZoteroPlugin@main/plugins/%s/%s" % (plugin[0], plugin[5])
+        download_link = "https://cdn.jsdelivr.net/gh/l0o0/ZoteroPlugin@main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
         markdown += "| %s | %s | [🔗](%s) | 📅%s | [💻](%s) | [🏠](%s) |\n" % (plugin[0], plugin[1], download_link, plugin[4], plugin[2], plugin[3])
     with open("readme.md", 'w', encoding='utf-8') as handle:
         handle.write(markdown)
