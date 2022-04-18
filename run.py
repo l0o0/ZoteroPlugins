@@ -48,6 +48,11 @@ def getFielName(plugin_dir, download_url, tag_name):
 #####################################################################
 # Main code
 
+# Create plugins folder
+if not os.path.isdir("plugins"):
+    print("Create plugins folder")
+    os.mkdir(plugins)
+
 # Loop all plugins in source.txt
 plugins = readSource()
 new_plugins_source = []
