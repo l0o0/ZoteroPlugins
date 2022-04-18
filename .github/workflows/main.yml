@@ -4,6 +4,8 @@ name: Update
 
 # Controls when the workflow will run
 on:
+  schedule:
+  - cron: "25 9 * * *"
 #   push:
 #     branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
