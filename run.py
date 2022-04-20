@@ -150,7 +150,7 @@ if update_flag == 1:
         markdown += "| %s | %s | [🔗](%s) | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], plugin[1], download_link, plugin[4], plugin[2], plugin[3])
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
         handle.write(markdown)
-    os.system("git add readme.md")
+    os.system("git add docs/README.md")
     os.system("git commit -m 'Update readme.md %s'" % datetime.now())
     os.system("git push origin main")
     
