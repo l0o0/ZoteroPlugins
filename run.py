@@ -52,7 +52,7 @@ def getDesc(url):
         out = re.findall("<em:description>(.*?)</em:description>", resp.text)
         return sorted(out)[-1]
     except:
-        return "插件简单获取异常"
+        return "插件简介获取异常"
 
 #####################################################################
 # Main code
@@ -155,7 +155,7 @@ if update_flag == 1:
     os.system("git commit -m 'Update source.txt %s'" % datetime.now())
 
     markdown = "# Zotero 插件下载\n\n"
-    markdown += "自动更新于： `%s`，国内用户建议使用 Gitee 下载链接\n\n" % datetime.now()
+    markdown += "自动更新于： `%s`，国内用户建议使用 Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装\n\n" % datetime.now()
     markdown += "| 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |\n"
     markdown += "| ----- | ----- | ----- | ----- | ----- | ----- |\n"
     
@@ -166,7 +166,7 @@ if update_flag == 1:
             desc = getDesc(plugin[2].replace("github", "raw.githubusercontent")  + "/master/%s" % plugin[1])
         download_link_github = "https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
         download_link_gitee = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
-        markdown += "| %s | %s | %s [Github🔗](%s), (Gitee🔗)[%s] | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], desc, tag, download_link_github, download_link_gitee, plugin[4], plugin[2], plugin[3])
+        markdown += "| %s | %s | %s [Github🔗](%s), [Gitee🔗](%s) | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], desc, tag, download_link_github, download_link_gitee, plugin[4], plugin[2], plugin[3])
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
         handle.write(markdown)
     os.system("git add docs/README.md")
