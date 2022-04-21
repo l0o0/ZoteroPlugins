@@ -15,4 +15,3 @@ Zotero Storage Scanner|A Zotero plugin to remove the broken & duplicate attachme
 Notero|A Zotero plugin for syncing items into Notion|https://github.com/dvanoni/notero|https://github.com/dvanoni/notero|2022-03-26 23:01:46|notero-0.3.3.xpi
 LyZ|addon/install.rdf|https://github.com/wshanks/lyz|https://github.com/wshanks/lyz|2021-09-06 20:06:53|lyz_v4.1.2.xpi
 Better BibTeX for Zotero|Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).|https://github.com/retorquere/zotero-better-bibtex|https://retorque.re/zotero-better-bibtex/|2022-04-20 20:14:21|zotero-better-bibtex-6.5.1.xpi
-obsidian-citation-plugin|Automatically search and insert citations from a Zotero library|https://github.com/hans/obsidian-citation-plugin|https://github.com/hans/obsidian-citation-plugin|2021-08-20 16:25:44|main.js_0.4.4.xpi
