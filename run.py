@@ -45,6 +45,15 @@ def getFielName(plugin_dir, download_url, tag_name):
         local_filename = "%s_%s.xpi" % (local_filename.replace(".xpi", ""), tag_name)
     return local_filename
 
+
+def getDesc(url):
+    try:
+        resp = requests.get(url)
+        out = re.findall("<em:description>(.*?)</em:description>", resp.text)
+        return sorted(out)[-1]
+    except:
+        return "插件简单获取异常"
+
 #####################################################################
 # Main code
 
@@ -73,6 +82,9 @@ for plugin in plugins:
     # Create folder for added plugin
     is_new = createPluginFolder(plugin_dir)
 
+    # tag 
+    tag = None
+
     # Download all version when plugin is added to source.txt, otherwise download the latest release
     if is_new:
         resp = requests.get(releases_url, headers=headers)
@@ -93,6 +105,7 @@ for plugin in plugins:
             downloadFile(download_url, local_filename)
             if _i == 0:
                 plugin[5] = os.path.basename(local_filename)
+                tag = tag_name
 
         os.system("git add %s" % os.path.join("plugins", plugin_name))
         os.system("git commit -m 'Add %s'" % plugin_name)
@@ -117,6 +130,7 @@ for plugin in plugins:
         os.system("git add %s" % local_filename)
         os.system("git commit -m 'Add %s'" % local_filename)
         plugin[5] = os.path.basename(local_filename)
+        tag = tag_name
     
 
     # Update flag
@@ -141,13 +155,18 @@ if update_flag == 1:
     os.system("git commit -m 'Update source.txt %s'" % datetime.now())
 
     markdown = "# Zotero 插件下载\n\n"
-    markdown += "自动更新于： `%s`\n\n" % datetime.now()
+    markdown += "自动更新于： `%s`，国内用户建议使用 Gitee 下载链接\n\n" % datetime.now()
     markdown += "| 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |\n"
     markdown += "| ----- | ----- | ----- | ----- | ----- | ----- |\n"
     
     for plugin in new_plugins_source:
-        download_link = "https://cdn.jsdelivr.net/gh/l0o0/ZoteroPlugin@main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
-        markdown += "| %s | %s | [🔗](%s) | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], plugin[1], download_link, plugin[4], plugin[2], plugin[3])
+        if len(plugin[1]) > 20:
+            desc = plugin[1]
+        else:
+            desc = getDesc(s.replace("github", "raw.githubusercontent")  + "/master/%s" % plugin[1])
+        download_link_github = "https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
+        download_link_gitee = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
+        markdown += "| %s | %s | %s [Github🔗](%s), (Gitee🔗)[%s] | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], desc, tag, download_link_github, download_link_gitee, plugin[4], plugin[2], plugin[3])
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
         handle.write(markdown)
     os.system("git add docs/README.md")
