@@ -163,7 +163,7 @@ if update_flag == 1:
         if len(plugin[1]) > 20:
             desc = plugin[1]
         else:
-            desc = getDesc(s.replace("github", "raw.githubusercontent")  + "/master/%s" % plugin[1])
+            desc = getDesc(plugin[2].replace("github", "raw.githubusercontent")  + "/master/%s" % plugin[1])
         download_link_github = "https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
         download_link_gitee = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
         markdown += "| %s | %s | %s [Github🔗](%s), (Gitee🔗)[%s] | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], desc, tag, download_link_github, download_link_gitee, plugin[4], plugin[2], plugin[3])
