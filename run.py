@@ -102,7 +102,6 @@ for plugin in plugins:
             downloadFile(download_url, local_filename)
             if _i == 0:
                 plugin[5] = os.path.basename(local_filename)
-                tag = tag_name
 
         os.system("git add %s" % os.path.join("plugins", plugin_name))
         os.system("git commit -m 'Add %s'" % plugin_name)
@@ -127,14 +126,13 @@ for plugin in plugins:
         os.system("git add %s" % local_filename)
         os.system("git commit -m 'Add %s'" % local_filename)
         plugin[5] = os.path.basename(local_filename)
-        tag = tag_name
     
 
     # Update flag
     update_flag = 1
     
     plugin[4] = "%s" % last_update_time
-    plugin[6] = tag
+    plugin[6] = tag_name
     new_plugins_source.append(plugin)
 
     # Add & commit plugin
