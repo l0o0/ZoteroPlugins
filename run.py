@@ -17,7 +17,7 @@ def getToken():
 def readSource():
     with open("source.txt", encoding='utf-8') as handle:
         plugins = [_i.strip().split("|") for _i in handle.readlines() if not _i.startswith("#")]
-    plugins = [_i + [None, None] if len(_i) == 4 else _i for _i in plugins]
+    plugins = [_i + [None, None, None] if len(_i) == 4 else _i for _i in plugins]
     return plugins
 
 
@@ -82,9 +82,6 @@ for plugin in plugins:
     # Create folder for added plugin
     is_new = createPluginFolder(plugin_dir)
 
-    # tag 
-    tag = None
-
     # Download all version when plugin is added to source.txt, otherwise download the latest release
     if is_new:
         resp = requests.get(releases_url, headers=headers)
@@ -137,6 +134,7 @@ for plugin in plugins:
     update_flag = 1
     
     plugin[4] = "%s" % last_update_time
+    plugin[6] = tag
     new_plugins_source.append(plugin)
 
     # Add & commit plugin
@@ -166,7 +164,7 @@ if update_flag == 1:
             desc = getDesc(plugin[2].replace("github", "raw.githubusercontent")  + "/master/%s" % plugin[1])
         download_link_github = "https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
         download_link_gitee = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/%s/%s" % (plugin[0].replace(" ", '_').lower(), plugin[5])
-        markdown += "| %s | %s | %s [Github🔗](%s), [Gitee🔗](%s) | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], desc, tag, download_link_github, download_link_gitee, plugin[4], plugin[2], plugin[3])
+        markdown += "| %s | %s | %s [Github🔗](%s), [Gitee🔗](%s) | 📅`%s` | [💻](%s) | [🏠](%s) |\n" % (plugin[0], desc, plugin[6], download_link_github, download_link_gitee, plugin[4], plugin[2], plugin[3])
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
         handle.write(markdown)
     os.system("git add docs/README.md")
