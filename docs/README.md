@@ -1,6 +1,6 @@
 # Zotero 插件下载
 
-自动更新于： `2022-04-30 03:01:04.137759`，国内用户建议使用 Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
+自动更新于： `2022-05-02 03:34:31.413046`，国内用户建议使用 Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
 
 | 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -21,4 +21,4 @@
 | Notero | A Zotero plugin for syncing items into Notion | 0.3.3 [Github🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/notero/notero-0.3.3.xpi), [Gitee🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/notero/notero-0.3.3.xpi) | 📅`2022-03-26 23:01:46` | [💻](https://github.com/dvanoni/notero) | [🏠](https://github.com/dvanoni/notero) |
 | LyZ | LyX integration plugin. | v4.1.2 [Github🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/lyz/lyz_v4.1.2.xpi), [Gitee🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/lyz/lyz_v4.1.2.xpi) | 📅`2021-09-06 20:06:53` | [💻](https://github.com/wshanks/lyz) | [🏠](https://github.com/wshanks/lyz) |
 | Better BibTeX for Zotero | Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown). | v6.5.2 [Github🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/better_bibtex_for_zotero/zotero-better-bibtex-6.5.2.xpi), [Gitee🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/better_bibtex_for_zotero/zotero-better-bibtex-6.5.2.xpi) | 📅`2022-04-22 20:34:04` | [💻](https://github.com/retorquere/zotero-better-bibtex) | [🏠](https://retorque.re/zotero-better-bibtex/) |
-| Zotero Night | Night theme for Zotero UI & Pdf | 0.1.3 [Github🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotero_night/zotero-night-0.2.2_v0.2.3.xpi), [Gitee🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotero_night/zotero-night-0.2.2_v0.2.3.xpi) | 📅`2022-04-27 18:55:40` | [💻](https://github.com/ThomasFKJorna/zotero-night) | [🏠](https://github.com/ThomasFKJorna/zotero-night) |
+| Zotero Night | Night theme for Zotero UI & Pdf | v0.2.5 [Github🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotero_night/zotero-night-0.2.5.xpi), [Gitee🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotero_night/zotero-night-0.2.5.xpi) | 📅`2022-05-01 09:38:20` | [💻](https://github.com/ThomasFKJorna/zotero-night) | [🏠](https://github.com/ThomasFKJorna/zotero-night) |
