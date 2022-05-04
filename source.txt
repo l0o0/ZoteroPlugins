@@ -16,3 +16,6 @@ Notero|A Zotero plugin for syncing items into Notion|https://github.com/dvanoni/
 LyZ|addon/install.rdf|https://github.com/wshanks/lyz|https://github.com/wshanks/lyz|2021-09-06 20:06:53|lyz_v4.1.2.xpi|v4.1.2
 Better BibTeX for Zotero|Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).|https://github.com/retorquere/zotero-better-bibtex|https://retorque.re/zotero-better-bibtex/|2022-04-22 20:34:04|zotero-better-bibtex-6.5.2.xpi|v6.5.2
 Zotero Night|Night theme for Zotero UI & Pdf|https://github.com/ThomasFKJorna/zotero-night|https://github.com/ThomasFKJorna/zotero-night|2022-05-01 09:38:20|zotero-night-0.2.5.xpi|v0.2.5
+zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://github.com/bwiernik/zotero-shortdoi
+ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations
+ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook
