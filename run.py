@@ -17,7 +17,7 @@ def getToken():
 def readSource():
     fieldNum = 7
     with open("source.txt", encoding='utf-8') as handle:
-        plugins = [_i.strip().split("|") for _i in handle.readlines() if not _i.startswith("#")]
+        plugins = [_i.strip().split("|") for _i in handle.readlines() if not _i.startswith("#") and _i.strip()]
     plugins = [_i + [None] * (fieldNum - len(_i)) if len(_i) != fieldNum else _i for _i in plugins]
     return plugins
 
