@@ -20,4 +20,4 @@ zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://
 ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations|2022-03-08 18:31:55|zotero-obsidian-citations-0.0.15.xpi|v0.0.13
 ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook|2019-12-13 14:02:37|zoteroquicklook.zoteroplugin_1.4.2.xpi|1.3.2
 ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookReload|https://github.com/404neko/ZoteroQuickLookReload|2022-04-17 15:41:56|zoteroquicklook_1.4.8.xpi|1.4.3
-Knowledge4Zotero|Knowledge management for Zotero|https://github.com/windingwind/Knowledge4Zotero|https://github.com/windingwind/Knowledge4Zotero|2022-05-11 13:39:57|knowledge-for-zotero_0.1.3.xpi|0.1.0
+Knowledge4Zotero|Knowledge management for Zotero|https://github.com/windingwind/Knowledge4Zotero|https://github.com/windingwind/Knowledge4Zotero|2022-05-15 14:06:24|zotero-better-notes_0.2.0.xpi|0.2.0
