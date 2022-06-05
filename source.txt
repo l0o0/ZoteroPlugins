@@ -1,11 +1,11 @@
 Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-05-13 01:55:07|jasminum-v0.1.8.xpi|v0.1.8
 ZotFile|install.rdf|https://github.com/jlegewie/zotfile|http://zotfile.com/|2022-03-23 01:37:40|zotfile-5.1.1-fx.xpi|5.1.1
 Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/wshanks/Zutilo|2021-08-29 11:23:09|zutilo_v3.10.0.xpi|v3.10.0
-Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-06-01 08:23:27|delitemwithatt_0.0.16.xpi|0.0.16
+Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-06-04 14:27:03|delitemwithatt_0.0.17.xpi|0.0.17
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-05-17 00:42:28|zotero-updateifs_0.93.0.xpi|0.93.0
 Zotero OCR|This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.|https://github.com/UB-Mannheim/zotero-ocr|ttps://github.com/UB-Mannheim/zotero-ocr|2022-05-22 17:31:49|zotero-ocr-0.6.0.xpi|0.6.0
 Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-05-11 02:41:23|zotero-tag_v0.2.5.xpi|v0.2.5
-Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-05-30 05:32:30|zotero-pdf-translate_v0.8.5.xpi|v0.8.5
+Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-06-04 15:24:22|zotero-pdf-translate_v0.8.6.xpi|v0.8.6
 KeepZotero|install.rdf|https://github.com/yhmtsai/KeepZotero|https://github.com/yhmtsai/KeepZotero|2022-03-22 23:36:13|keepzotero-0.0.2-fx.xpi|0.0.2
 Zotero Scihub|This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.|https://github.com/ethanwillis/zotero-scihub|https://github.com/ethanwillis/zotero-scihub|2022-04-06 12:15:35|zotero-scihub-1.4.4.xpi|1.4.4
 Zotero mdnote|install.rdf|https://github.com/argenos/zotero-mdnotes|https://github.com/argenos/zotero-mdnotes|2022-05-03 13:32:54|mdnotes-0.2.3.xpi|0.2.3
