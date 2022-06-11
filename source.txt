@@ -5,7 +5,7 @@ Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-05-17 00:42:28|zotero-updateifs_0.93.0.xpi|0.93.0
 Zotero OCR|This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.|https://github.com/UB-Mannheim/zotero-ocr|ttps://github.com/UB-Mannheim/zotero-ocr|2022-05-22 17:31:49|zotero-ocr-0.6.0.xpi|0.6.0
 Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-06-08 02:21:06|zotero-tag_v0.2.7.xpi|v0.2.7
-Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-06-08 07:02:44|zotero-pdf-translate_v0.8.9.xpi|v0.8.9
+Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-06-11 02:48:22|zotero-pdf-translate_v0.8.11.xpi|v0.8.11
 KeepZotero|install.rdf|https://github.com/yhmtsai/KeepZotero|https://github.com/yhmtsai/KeepZotero|2022-03-22 23:36:13|keepzotero-0.0.2-fx.xpi|0.0.2
 Zotero Scihub|This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.|https://github.com/ethanwillis/zotero-scihub|https://github.com/ethanwillis/zotero-scihub|2022-04-06 12:15:35|zotero-scihub-1.4.4.xpi|1.4.4
 Zotero mdnote|install.rdf|https://github.com/argenos/zotero-mdnotes|https://github.com/argenos/zotero-mdnotes|2022-05-03 13:32:54|mdnotes-0.2.3.xpi|0.2.3
@@ -20,4 +20,4 @@ zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://
 ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations|2022-06-05 05:38:38|MarkDBConnect-0.0.18.xpi|v0.0.18
 ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook|2019-12-13 14:02:37|zoteroquicklook.zoteroplugin_1.4.2.xpi|1.3.2
 ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookReload|https://github.com/404neko/ZoteroQuickLookReload|2022-04-17 15:41:56|zoteroquicklook_1.4.8.xpi|1.4.3
-Knowledge4Zotero|Knowledge management for Zotero|https://github.com/windingwind/Knowledge4Zotero|https://github.com/windingwind/Knowledge4Zotero|2022-06-09 16:28:30|zotero-better-notes_0.5.2.xpi|0.5.2
+Knowledge4Zotero|Knowledge management for Zotero|https://github.com/windingwind/Knowledge4Zotero|https://github.com/windingwind/Knowledge4Zotero|2022-06-10 14:36:04|zotero-better-notes_0.5.6.xpi|0.5.6
