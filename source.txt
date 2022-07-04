@@ -1,5 +1,5 @@
 Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-05-13 01:55:07|jasminum-v0.1.8.xpi|v0.1.8
-ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-03-26 01:37:40|zotfile-v5.1.1-fx.xpi|v5.0.16.2
+ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-03-26 01:37:40|zotfile-v5.1.1-fx.xpi|v5.1.1
 Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/wshanks/Zutilo|2021-08-29 11:23:09|zutilo_v3.10.0.xpi|v3.10.0
 Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-06-04 14:27:03|delitemwithatt_0.0.17.xpi|0.0.17
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-05-17 00:42:28|zotero-updateifs_0.93.0.xpi|0.93.0
