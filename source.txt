@@ -21,3 +21,4 @@ ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-cita
 ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook|2019-12-13 14:02:37|zoteroquicklook.zoteroplugin_1.4.2.xpi|1.3.2
 ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookReload|https://github.com/404neko/ZoteroQuickLookReload|2022-04-17 15:41:56|zoteroquicklook_1.4.8.xpi|1.4.3
 Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-07-14 10:01:41|zotero-better-notes_0.6.7.xpi|0.6.7
+Zotero PDF prevew|Zotero PDF 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview
