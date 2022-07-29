@@ -15,10 +15,10 @@ Zotero Storage Scanner|A Zotero plugin to remove the broken & duplicate attachme
 Notero|A Zotero plugin for syncing items into Notion|https://github.com/dvanoni/notero|https://github.com/dvanoni/notero|2022-05-22 19:00:25|notero-0.3.5.xpi|v0.3.5
 LyZ|addon/install.rdf|https://github.com/wshanks/lyz|https://github.com/wshanks/lyz|2021-09-06 20:06:53|lyz_v4.1.2.xpi|v4.1.2
 Better BibTeX for Zotero|Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).|https://github.com/retorquere/zotero-better-bibtex|https://retorque.re/zotero-better-bibtex/|2022-07-22 09:52:46|zotero-better-bibtex-6.7.17.xpi|v6.7.17
-Zotero Night|Night theme for Zotero UI & Pdf|https://github.com/ThomasFKJorna/zotero-night|https://github.com/ThomasFKJorna/zotero-night|2022-07-27 18:18:52|zotero-night-0.4.13.xpi|v0.4.13
+Zotero Night|Night theme for Zotero UI & Pdf|https://github.com/ThomasFKJorna/zotero-night|https://github.com/ThomasFKJorna/zotero-night|2022-07-28 11:53:32|zotero-night-0.4.15.xpi|v0.4.15
 zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://github.com/bwiernik/zotero-shortdoi|2022-02-13 17:59:06|zotero-doi-manager-1.4.2.xpi|v1.3.8
 ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations|2022-06-05 05:38:38|MarkDBConnect-0.0.18.xpi|v0.0.18
 ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook|2019-12-13 14:02:37|zoteroquicklook.zoteroplugin_1.4.2.xpi|1.3.2
 ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookReload|https://github.com/404neko/ZoteroQuickLookReload|2022-04-17 15:41:56|zoteroquicklook_1.4.8.xpi|1.4.3
 Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-07-27 02:35:49|zotero-better-notes_0.6.9.xpi|0.6.9
-Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-07-16 18:21:37|zotero-pdf-preview_0.1.0.xpi|0.1.0
+Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-07-28 09:58:11|zotero-pdf-preview_0.2.0.xpi|0.2.0
