@@ -1,6 +1,6 @@
 # Zotero 插件下载
 
-自动更新于： `2022-09-25 03:46:29.413513`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
+自动更新于： `2022-09-29 03:59:03.395356`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
 
 Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip), 谷歌浏览器插件手动[安装教程](https://zhuanlan.zhihu.com/p/80305764)
 
@@ -9,7 +9,7 @@ Zotero 中文插件群（1群已满，请加2群)： 1群 913637964， 2群 6171
 | 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | Jasminum | 一个简单的 Zotero 中文插件 | v0.1.8 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/jasminum/jasminum-v0.1.8.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/jasminum/jasminum-v0.1.8.xpi) | 📅`2022-05-13 01:55:07` | [💻](https://github.com/l0o0/jasminum) | [🏠](https://gitee.com/l0o0/jasminum) |
-| ZotFile汉化版 | Zotero的高级PDF管理工具 | v5.1.1 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotfile汉化版/zotfile-v5.1.1-fx.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotfile汉化版/zotfile-v5.1.1-fx.xpi) | 📅`2022-03-26 01:37:40` | [💻](https://github.com/lychichem/zotfile) | [🏠](http://zotfile.com/) |
+| ZotFile汉化版 | Zotero的高级PDF管理工具 | v5.1.1.1 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotfile汉化版/zotfile-v5.1.1.1-fx.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotfile汉化版/zotfile-v5.1.1.1-fx.xpi) | 📅`2022-09-28 22:09:30` | [💻](https://github.com/lychichem/zotfile) | [🏠](http://zotfile.com/) |
 | Zutlio | 一个为Zotero增加了各种实用宏的工具箱 | v3.10.0 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zutlio/zutilo_v3.10.0.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zutlio/zutilo_v3.10.0.xpi) | 📅`2021-08-29 11:23:09` | [💻](https://github.com/wshanks/Zutilo) | [🏠](https://github.com/wshanks/Zutilo) |
 | Delitem | 删除条目的同时删除附件 | 0.0.17 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/delitem/delitemwithatt_0.0.17.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/delitem/delitemwithatt_0.0.17.xpi) | 📅`2022-06-04 14:27:03` | [💻](https://github.com/redleafnew/delitemwithatt) | [🏠](https://github.com/redleafnew/delitemwithatt) |
 | Zotero Update IFs | 从http://sci.justscience.cn/更新期刊影响因子 | 0.93.5 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotero_update_ifs/zotero-updateifs_0.93.5.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotero_update_ifs/zotero-updateifs_0.93.5.xpi) | 📅`2022-07-24 12:10:16` | [💻](https://github.com/redleafnew/zotero-updateifs) | [🏠](https://github.com/redleafnew/zotero-updateifs) |
