@@ -4,8 +4,8 @@ Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/ws
 Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-06-04 14:27:03|delitemwithatt_0.0.17.xpi|0.0.17
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-07-24 12:10:16|zotero-updateifs_0.93.5.xpi|0.93.5
 Zotero OCR|This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.|https://github.com/UB-Mannheim/zotero-ocr|ttps://github.com/UB-Mannheim/zotero-ocr|2022-05-22 17:31:49|zotero-ocr-0.6.0.xpi|0.6.0
-Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-09-12 08:31:32|zotero-tag_v0.2.17.xpi|v0.2.17
-Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-09-24 09:02:21|zotero-pdf-translate_v0.8.24.xpi|v0.8.24
+Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-10-02 06:41:51|zotero-tag_v0.2.18.xpi|v0.2.18
+Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-10-02 09:43:37|zotero-pdf-translate_v0.8.25.xpi|v0.8.25
 KeepZotero|install.rdf|https://github.com/yhmtsai/KeepZotero|https://github.com/yhmtsai/KeepZotero|2022-03-22 23:36:13|keepzotero-0.0.2-fx.xpi|0.0.2
 Zotero Scihub|This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.|https://github.com/ethanwillis/zotero-scihub|https://github.com/ethanwillis/zotero-scihub|2022-04-06 12:15:35|zotero-scihub-1.4.4.xpi|1.4.4
 Zotero mdnote|install.rdf|https://github.com/argenos/zotero-mdnotes|https://github.com/argenos/zotero-mdnotes|2022-05-03 13:32:54|mdnotes-0.2.3.xpi|0.2.3
