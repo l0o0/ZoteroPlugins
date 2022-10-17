@@ -1,7 +1,7 @@
 Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-10-15 13:34:59|jasminum-v0.1.9.xpi|v0.1.9
 ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-10-11 03:57:10|zotfile-v5.1.2-fx.xpi|v5.1.2
 Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/wshanks/Zutilo|2021-08-29 11:23:09|zutilo_v3.10.0.xpi|v3.10.0
-Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-06-04 14:27:03|delitemwithatt_0.0.17.xpi|0.0.17
+Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-10-16 06:41:52|delitemwithatt_0.0.18.xpi|0.0.18
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-07-24 12:10:16|zotero-updateifs_0.93.5.xpi|0.93.5
 Zotero OCR|This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.|https://github.com/UB-Mannheim/zotero-ocr|ttps://github.com/UB-Mannheim/zotero-ocr|2022-05-22 17:31:49|zotero-ocr-0.6.0.xpi|0.6.0
 Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-10-02 06:41:51|zotero-tag_v0.2.18.xpi|v0.2.18
@@ -14,7 +14,7 @@ Zotero Citation Counts Manager|This is an add-on for Zotero, a research source m
 Zotero Storage Scanner|A Zotero plugin to remove the broken & duplicate attachment link of the bibliography|https://github.com/retorquere/zotero-storage-scanner|https://github.com/retorquere/zotero-storage-scanner|2022-05-22 21:04:39|zotero-storage-scanner-5.0.12.xpi|v5.0.12
 Notero|A Zotero plugin for syncing items into Notion|https://github.com/dvanoni/notero|https://github.com/dvanoni/notero|2022-05-22 19:00:25|notero-0.3.5.xpi|v0.3.5
 LyZ|addon/install.rdf|https://github.com/wshanks/lyz|https://github.com/wshanks/lyz|2021-09-06 20:06:53|lyz_v4.1.2.xpi|v4.1.2
-Better BibTeX for Zotero|Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).|https://github.com/retorquere/zotero-better-bibtex|https://retorque.re/zotero-better-bibtex/|2022-10-15 08:38:58|zotero-better-bibtex-6.7.26.xpi|v6.7.26
+Better BibTeX for Zotero|Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).|https://github.com/retorquere/zotero-better-bibtex|https://retorque.re/zotero-better-bibtex/|2022-10-17 01:28:11|zotero-better-bibtex-6.7.27.xpi|v6.7.27
 Zotero Night|Night theme for Zotero UI & Pdf|https://github.com/ThomasFKJorna/zotero-night|https://github.com/ThomasFKJorna/zotero-night|2022-08-13 17:25:43|night_v0.4.16.xpi|v0.4.16
 zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://github.com/bwiernik/zotero-shortdoi|2022-02-13 17:59:06|zotero-doi-manager-1.4.2.xpi|v1.3.8
 ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations|2022-09-13 16:28:35|MarkDBConnect-0.0.19.xpi|v0.0.19
