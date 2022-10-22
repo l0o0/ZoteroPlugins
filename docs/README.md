@@ -4,6 +4,8 @@
 
 Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip), 谷歌浏览器插件手动[安装教程](https://zhuanlan.zhihu.com/p/80305764)
 
+Android 客户端Zoo for Zotero[下载地址](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/zooforzotero_43_apps.evozi.com.apk)
+
 Zotero 中文插件群（1群已满，请加2群)： 1群 913637964， 2群 617148016， 3群 962963257。独学而无友，则孤陋而寡闻
 
 | 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |
