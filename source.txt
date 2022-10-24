@@ -23,3 +23,4 @@ ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookR
 Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-10-24 03:36:04|zotero-better-notes_0.7.13.xpi|0.7.13
 Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.7
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2022-08-20 01:00:51|zotcard-2.7.6.xpi|v2.7
+Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero
