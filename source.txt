@@ -1,5 +1,5 @@
 Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-10-22 12:11:43|jasminum-v0.2.0.xpi|v0.2.0
-ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-10-11 03:57:10|zotfile-v5.1.2-fx.xpi|v5.1.2
+ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-11-02 03:29:25|zotfile-v5.1.2.999-fx.xpi|v5.1.2.999
 Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/wshanks/Zutilo|2021-08-29 11:23:09|zutilo_v3.10.0.xpi|v3.10.0
 Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-10-16 06:41:52|delitemwithatt_0.0.18.xpi|0.0.18
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-10-26 14:30:17|zotero-updateifs_0.94.5.xpi|0.94.5
@@ -23,4 +23,4 @@ ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookR
 Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-10-25 15:48:46|zotero-better-notes_0.7.16.xpi|0.7.16
 Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.7
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2022-08-20 01:00:51|zotcard-2.7.6.xpi|v2.7
-Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-10-31 11:33:59|Chartero_1.2.2.xpi|1.2.2
+Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-11-01 15:12:58|Chartero_1.2.3.xpi|1.2.3
