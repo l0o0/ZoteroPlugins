@@ -1,6 +1,6 @@
 # Zotero 插件下载
 
-自动更新于： `2022-11-23 02:48:49.813290`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
+自动更新于： `2022-11-24 02:39:28.708237`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
 
 Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip), 谷歌浏览器插件手动[安装教程](https://zhuanlan.zhihu.com/p/80305764)
 
@@ -8,7 +8,7 @@ Android 客户端Zoo for Zotero[下载地址](https://gitee.com/zotero-chinese/z
 
 | 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| Jasminum | 一个简单的 Zotero 中文插件 | v0.2.1 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/jasminum/jasminum-v0.2.1.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/jasminum/jasminum-v0.2.1.xpi) | 📅`2022-11-18 08:38:05` | [💻](https://github.com/l0o0/jasminum) | [🏠](https://gitee.com/l0o0/jasminum) |
+| Jasminum | 一个简单的 Zotero 中文插件 | v0.2.2 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/jasminum/jasminum-v0.2.2.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/jasminum/jasminum-v0.2.2.xpi) | 📅`2022-11-24 02:34:56` | [💻](https://github.com/l0o0/jasminum) | [🏠](https://gitee.com/l0o0/jasminum) |
 | ZotFile汉化版 | Zotero的高级PDF管理工具 | v5.1.2.999 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotfile汉化版/zotfile-v5.1.2.999-fx.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotfile汉化版/zotfile-v5.1.2.999-fx.xpi) | 📅`2022-11-02 03:29:25` | [💻](https://github.com/lychichem/zotfile) | [🏠](http://zotfile.com/) |
 | Zutlio | 一个为Zotero增加了各种实用宏的工具箱 | v3.10.0 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zutlio/zutilo_v3.10.0.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zutlio/zutilo_v3.10.0.xpi) | 📅`2021-08-29 11:23:09` | [💻](https://github.com/wshanks/Zutilo) | [🏠](https://github.com/wshanks/Zutilo) |
 | Delitem | 删除条目的同时删除附件 | 0.0.20 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/delitem/delitemwithatt_0.0.20.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/delitem/delitemwithatt_0.0.20.xpi) | 📅`2022-11-18 09:08:13` | [💻](https://github.com/redleafnew/delitemwithatt) | [🏠](https://github.com/redleafnew/delitemwithatt) |
