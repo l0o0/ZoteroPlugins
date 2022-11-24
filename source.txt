@@ -1,4 +1,4 @@
-Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-11-18 08:38:05|jasminum-v0.2.1.xpi|v0.2.1
+Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-11-24 02:34:56|jasminum-v0.2.2.xpi|v0.2.2
 ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-11-02 03:29:25|zotfile-v5.1.2.999-fx.xpi|v5.1.2.999
 Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/wshanks/Zutilo|2021-08-29 11:23:09|zutilo_v3.10.0.xpi|v3.10.0
 Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-11-18 09:08:13|delitemwithatt_0.0.20.xpi|0.0.20
