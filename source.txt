@@ -1,4 +1,4 @@
-Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-11-24 02:34:56|jasminum-v0.2.2.xpi|v0.2.2
+Jasminum|install.rdf|https://github.com/l0o0/jasminum|https://gitee.com/l0o0/jasminum|2022-12-01 02:54:21|jasminum-v0.2.3.xpi|v0.2.3
 ZotFile汉化版|install.rdf|https://github.com/lychichem/zotfile|http://zotfile.com/|2022-11-02 03:29:25|zotfile-v5.1.2.999-fx.xpi|v5.1.2.999
 Zutlio|addon/install.rdf|https://github.com/wshanks/Zutilo|https://github.com/wshanks/Zutilo|2021-08-29 11:23:09|zutilo_v3.10.0.xpi|v3.10.0
 Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.com/redleafnew/delitemwithatt|2022-11-18 09:08:13|delitemwithatt_0.0.20.xpi|0.0.20
@@ -20,7 +20,7 @@ zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://
 ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations|2022-11-27 09:04:58|MarkDBConnect-0.0.20.xpi|v0.0.20
 ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook|2019-12-13 14:02:37|zoteroquicklook.zoteroplugin_1.4.2.xpi|1.3.2
 ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookReload|https://github.com/404neko/ZoteroQuickLookReload|2022-04-17 15:41:56|zoteroquicklook_1.4.8.xpi|1.4.3
-Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-11-25 07:53:14|zotero-better-notes_0.7.27.xpi|0.7.27
+Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-11-30 03:23:40|zotero-better-notes_0.7.28.xpi|0.7.28
 Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.7
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2022-08-20 01:00:51|zotcard-2.7.6.xpi|v2.7
 Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-11-26 03:29:32|Chartero_1.3.0.xpi|1.3.0
