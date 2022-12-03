@@ -24,4 +24,4 @@ Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwi
 Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.7
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2022-08-20 01:00:51|zotcard-2.7.6.xpi|v2.7
 Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-11-26 03:29:32|Chartero_1.3.0.xpi|1.3.0
-Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕|https://github.com/MuiseDestiny/ZoteroStyle|https://github.com/MuiseDestiny/ZoteroStyle|2022-12-01 12:10:41|zotero-style_1.4.0.xpi|1.4.0
+Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕|https://github.com/MuiseDestiny/ZoteroStyle|https://github.com/MuiseDestiny/ZoteroStyle|2022-12-02 14:36:13|zotero-style_1.3.3.xpi|1.3.3
