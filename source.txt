@@ -5,7 +5,7 @@ Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-12-03 06:54:15|zotero-updateifs_0.95.4.xpi|0.95.4
 Zotero OCR|This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.|https://github.com/UB-Mannheim/zotero-ocr|ttps://github.com/UB-Mannheim/zotero-ocr|2022-05-22 17:31:49|zotero-ocr-0.6.0.xpi|0.6.0
 Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-11-24 12:35:33|zotero-tag_v0.3.0.xpi|v0.3.0
-Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-11-24 11:43:04|zotero-pdf-translate_v0.9.4.xpi|v0.9.4
+Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2022-12-07 15:19:05|zotero-pdf-translate_v0.9.5.xpi|v0.9.5
 KeepZotero|install.rdf|https://github.com/yhmtsai/KeepZotero|https://github.com/yhmtsai/KeepZotero|2022-03-22 23:36:13|keepzotero-0.0.2-fx.xpi|0.0.2
 Zotero Scihub|This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.|https://github.com/ethanwillis/zotero-scihub|https://github.com/ethanwillis/zotero-scihub|2022-04-06 12:15:35|zotero-scihub-1.4.4.xpi|1.4.4
 Zotero mdnote|install.rdf|https://github.com/argenos/zotero-mdnotes|https://github.com/argenos/zotero-mdnotes|2022-05-03 13:32:54|mdnotes-0.2.3.xpi|0.2.3
@@ -23,5 +23,5 @@ ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookR
 Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2022-11-30 03:23:40|zotero-better-notes_0.7.28.xpi|0.7.28
 Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.7
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2022-08-20 01:00:51|zotcard-2.7.6.xpi|v2.7
-Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-12-04 13:59:44|Chartero_1.3.1.xpi|1.3.1
-Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕|https://github.com/MuiseDestiny/ZoteroStyle|https://github.com/MuiseDestiny/ZoteroStyle|2022-12-06 03:28:25|zotero-style_1.4.0.xpi|1.4.0
+Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-12-08 00:13:35|chartero_1.3.2.xpi|1.3.2
+Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕|https://github.com/MuiseDestiny/ZoteroStyle|https://github.com/MuiseDestiny/ZoteroStyle|2022-12-07 15:59:24|zotero-style_1.4.2.xpi|1.4.2
