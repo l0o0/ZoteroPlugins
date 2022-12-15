@@ -11,4 +11,7 @@ More detail in ...
 
 `插件名称|插件介绍（如果有install.rdf请写明该文件在仓库中的相对路径）|项目github地址|项目主页地址（没有就填github地址）`
 
+示例  
+`zotero-reference|Zotero 参考文献自动抓取插件|https://github.com/MuiseDestiny/zotero-reference|https://github.com/MuiseDestiny/zotero-reference`
+
 其他信息插件版本、日期等，会在自动更新时由机器人自动添加，不必手动添加。
