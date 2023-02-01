@@ -155,7 +155,7 @@ if update_flag == 1:
     markdown += "自动更新于： `%s`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装\n\n" % datetime.now()
     markdown += "Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip), 谷歌浏览器插件手动[安装教程](https://zhuanlan.zhihu.com/p/80305764)\n\n"
     markdown += "Android 客户端Zoo for Zotero[下载地址](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/zooforzotero_43_apps.evozi.com.apk)\n\n"
-    markdown += "Zotero 中文插件群（1群已满，请加2群)： 1群 913637964， 2群 617148016， 3群 962963257, 4群 893963769。独学而无友，则孤陋而寡闻\n\n"
+    markdown += "Zotero 中文插件群913637964，617148016，893963769，666489129，145248977，962963257（加一个群即可）。独学而无友，则孤陋而寡闻\n\n"
     markdown += "| 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |\n"
     markdown += "| ----- | ----- | ----- | ----- | ----- | ----- |\n"
     
