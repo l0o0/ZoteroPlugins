@@ -1,6 +1,6 @@
 # Zotero 插件下载
 
-自动更新于： `2023-02-03 02:34:55.309443`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
+自动更新于： `2023-02-04 02:23:58.440030`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
 
 Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip), 谷歌浏览器插件手动[安装教程](https://zhuanlan.zhihu.com/p/80305764)
 
@@ -38,3 +38,4 @@ Zotero 中文插件群913637964，617148016，893963769，666489129，145248977�
 | Chartero | Chartero Zotero阅读统计可视化插件 | 1.3.2 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/chartero/chartero_1.3.2.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/chartero/chartero_1.3.2.xpi) | 📅`2022-12-08 00:13:35` | [💻](https://github.com/volatile-static/Chartero) | [🏠](https://github.com/volatile-static/Chartero) |
 | Zotero Style | 🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕 | 2.0.8 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotero_style/zotero-style_2.0.8.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotero_style/zotero-style_2.0.8.xpi) | 📅`2023-02-02 07:41:30` | [💻](https://github.com/MuiseDestiny/ZoteroStyle) | [🏠](https://github.com/MuiseDestiny/ZoteroStyle) |
 | zotero-reference | 🎫🎫Zotero 参考文献自动抓取插件🎫🎫 | 0.2.6 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/zotero-reference/zotero-reference_0.2.6.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/zotero-reference/zotero-reference_0.2.6.xpi) | 📅`2023-02-01 06:48:53` | [💻](https://github.com/MuiseDestiny/zotero-reference) | [🏠](https://github.com/MuiseDestiny/zotero-reference) |
+| Tara | 蒲公英：Zotero配置及插件备份恢复工具 | 0.0.1 [官方🔗](https://github.com/l0o0/ZoteroPlugins/raw/main/plugins/tara/tara_0.0.1.xpi), [国内镜像🔗](https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins/tara/tara_0.0.1.xpi) | 📅`2022-12-15 04:11:10` | [💻](https://github.com/l0o0/tara) | [🏠](https://github.com/l0o0/tara) |
