@@ -27,4 +27,4 @@ Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-
 Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕|https://github.com/MuiseDestiny/ZoteroStyle|https://github.com/MuiseDestiny/ZoteroStyle|2023-02-24 12:52:07|zotero-style_2.2.6.xpi|2.2.6
 zotero-reference|🎫🎫Zotero 参考文献自动抓取插件🎫🎫|https://github.com/MuiseDestiny/zotero-reference|https://github.com/MuiseDestiny/zotero-reference|2023-02-24 14:30:27|zotero-reference_0.3.6.xpi|0.3.6
 Tara|蒲公英：Zotero配置及插件备份恢复工具|https://github.com/l0o0/tara|https://github.com/l0o0/tara|2023-02-10 13:32:50|tara_v0.0.3.xpi|v0.0.3
-Zotero Citation| Zotero Citation 文献引用使用体验优化插件 | https://github.com/MuiseDestiny/zotero-citation
+Zotero Citation| Zotero Citation 文献引用使用体验优化插件 |https://github.com/MuiseDestiny/zotero-citation|https://github.com/MuiseDestiny/zotero-citation
