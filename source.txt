@@ -28,3 +28,4 @@ Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕
 zotero-reference|🎫🎫Zotero 参考文献自动抓取插件🎫🎫|https://github.com/MuiseDestiny/zotero-reference|https://github.com/MuiseDestiny/zotero-reference|2023-03-06 03:36:27|zotero-reference_0.3.9.xpi|0.3.9
 Tara|蒲公英：Zotero配置及插件备份恢复工具|https://github.com/l0o0/tara|https://github.com/l0o0/tara|2023-02-10 13:32:50|tara_v0.0.3.xpi|v0.0.3
 Zotero Citation| Zotero Citation 文献引用使用体验优化插件 |https://github.com/MuiseDestiny/zotero-citation|https://github.com/MuiseDestiny/zotero-citation|2023-02-27 07:04:35|zotero-citation_0.1.6.xpi|0.1.6
+Green Frog🐸 zotero-updateifsE| easyScholar Zotero插件🐸显示期刊分区，影响因子|https://github.com/redleafnew/zotero-updateifsE|https://github.com/redleafnew/zotero-updateifsE
