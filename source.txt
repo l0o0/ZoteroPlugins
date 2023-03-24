@@ -23,9 +23,9 @@ ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookR
 Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2023-02-14 04:19:12|zotero-better-notes_0.8.9.xpi|0.8.9
 Zotero PDF prevew|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.7
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2023-02-07 09:50:49|zotcard-2.8.0.xpi|v2.8
-Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2022-12-08 00:13:35|chartero_1.3.2.xpi|1.3.2
+Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2023-03-23 03:10:50|Chartero_1.3.3.xpi|1.3.3
 Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕|https://github.com/MuiseDestiny/ZoteroStyle|https://github.com/MuiseDestiny/ZoteroStyle|2023-03-21 12:56:30|zotero-style_2.5.3.xpi|2.5.3
-zotero-reference|🎫🎫Zotero 参考文献自动抓取插件🎫🎫|https://github.com/MuiseDestiny/zotero-reference|https://github.com/MuiseDestiny/zotero-reference|2023-03-22 14:42:19|zotero-reference_0.5.1.xpi|0.5.1
+zotero-reference|🎫🎫Zotero 参考文献自动抓取插件🎫🎫|https://github.com/MuiseDestiny/zotero-reference|https://github.com/MuiseDestiny/zotero-reference|2023-03-23 08:33:45|zotero-reference_0.5.2.xpi|0.5.2
 Tara|蒲公英：Zotero配置及插件备份恢复工具|https://github.com/l0o0/tara|https://github.com/l0o0/tara|2023-02-10 13:32:50|tara_v0.0.3.xpi|v0.0.3
 Zotero Citation| Zotero Citation 文献引用使用体验优化插件 |https://github.com/MuiseDestiny/zotero-citation|https://github.com/MuiseDestiny/zotero-citation|2023-03-20 13:58:44|zotero-citation_0.2.2.xpi|0.2.2
 Green Frog🐸 zotero-updateifsE| easyScholar Zotero插件🐸显示期刊分区，影响因子|https://github.com/redleafnew/zotero-updateifsE|https://github.com/redleafnew/zotero-updateifsE|2023-03-20 03:43:20|greenfrog_0.5.1.xpi|0.5.1
