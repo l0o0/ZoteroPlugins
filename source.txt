@@ -5,7 +5,7 @@ Delitem|install.rdf|https://github.com/redleafnew/delitemwithatt|https://github.
 Zotero Update IFs|install.rdf|https://github.com/redleafnew/zotero-updateifs|https://github.com/redleafnew/zotero-updateifs|2022-12-10 09:00:38|zotero-updateifs_0.95.6.xpi|0.95.6
 Zotero OCR|This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.|https://github.com/UB-Mannheim/zotero-ocr|ttps://github.com/UB-Mannheim/zotero-ocr|2022-05-22 17:31:49|zotero-ocr-0.6.0.xpi|0.6.0
 Zotero Tag|Manage all your Tags in one Zotero add-on.|https://github.com/windingwind/zotero-tag|https://github.com/windingwind/zotero-tag|2022-11-24 12:35:33|zotero-tag_v0.3.0.xpi|v0.3.0
-Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2023-04-02 02:13:15|zotero-pdf-translate_v1.0.16.xpi|v1.0.16
+Zotero PDF Translate|This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.|https://github.com/windingwind/zotero-pdf-translate|https://github.com/windingwind/zotero-pdf-translate|2023-04-05 06:36:58|zotero-pdf-translate_v1.0.20.xpi|v1.0.20
 KeepZotero|install.rdf|https://github.com/yhmtsai/KeepZotero|https://github.com/yhmtsai/KeepZotero|2022-03-22 23:36:13|keepzotero-0.0.2-fx.xpi|0.0.2
 Zotero Scihub|This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.|https://github.com/ethanwillis/zotero-scihub|https://github.com/ethanwillis/zotero-scihub|2022-04-06 12:15:35|zotero-scihub-1.4.4.xpi|1.4.4
 Zotero mdnote|install.rdf|https://github.com/argenos/zotero-mdnotes|https://github.com/argenos/zotero-mdnotes|2022-05-03 13:32:54|mdnotes-0.2.3.xpi|0.2.3
@@ -28,6 +28,6 @@ Zotero Style|🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕
 zotero-reference|🎫🎫Zotero 参考文献自动抓取插件🎫🎫|https://github.com/MuiseDestiny/zotero-reference|https://github.com/MuiseDestiny/zotero-reference|2023-03-26 13:23:58|zotero-reference_0.5.4.xpi|0.5.4
 Tara|蒲公英：Zotero配置及插件备份恢复工具|https://github.com/l0o0/tara|https://github.com/l0o0/tara|2023-02-10 13:32:50|tara_v0.0.3.xpi|v0.0.3
 Zotero Citation| Zotero Citation 文献引用使用体验优化插件 |https://github.com/MuiseDestiny/zotero-citation|https://github.com/MuiseDestiny/zotero-citation|2023-03-20 13:58:44|zotero-citation_0.2.2.xpi|0.2.2
-Green Frog🐸 zotero-updateifsE| easyScholar Zotero插件🐸显示期刊分区，影响因子|https://github.com/redleafnew/zotero-updateifsE|https://github.com/redleafnew/zotero-updateifsE|2023-04-03 14:33:38|greenfrog_0.6.6.xpi|0.6.6
-Zotero Format Metadata| 格式化条目元数据：设置标题上下标、查询期刊缩写和高校所在地、自动填充条目语言等|https://github.com/northword/zotero-format-metadata|https://github.com/northword/zotero-format-metadata
-Zotero GPT|连接Zotero和GPT的桥梁|https://github.com/MuiseDestiny/zotero-gpt|https://github.com/MuiseDestiny/zotero-gpt
+Green Frog🐸 zotero-updateifsE| easyScholar Zotero插件🐸显示期刊分区，影响因子|https://github.com/redleafnew/zotero-updateifsE|https://github.com/redleafnew/zotero-updateifsE|2023-04-05 05:04:06|greenfrog_0.6.7.xpi|0.6.7
+Zotero Format Metadata| 格式化条目元数据：设置标题上下标、查询期刊缩写和高校所在地、自动填充条目语言等|https://github.com/northword/zotero-format-metadata|https://github.com/northword/zotero-format-metadata|2023-04-03 13:13:02|update.json_0.0.10.xpi|0.0.9
+Zotero GPT|连接Zotero和GPT的桥梁|https://github.com/MuiseDestiny/zotero-gpt|https://github.com/MuiseDestiny/zotero-gpt|2023-04-04 03:58:06|zotero-gpt_0.0.7.xpi|0.0.6
