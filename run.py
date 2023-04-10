@@ -92,7 +92,10 @@ for plugin in plugins:
         for _i, json_data in enumerate(json_datas):
             if _i == 2:
                 break
-            download_url = json_data['assets'][0]['browser_download_url']
+            for asset in json_data['assets']:
+                if asset['content_type'] == 'application/x-xpinstall':
+                    download_url = asset['browser_download_url']
+                    break
             update_time = datetime.strptime(json_data['assets'][0]['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             tag_name = json_data['tag_name']
 
@@ -111,7 +114,10 @@ for plugin in plugins:
         resp = requests.get(api_url, headers=headers)
         # resp = requests.get(api_url)
         json_data = resp.json()
-        download_url = json_data['assets'][0]['browser_download_url']
+        for asset in json_data['assets']:
+            if asset['content_type'] == 'application/x-xpinstall':
+                download_url = asset['browser_download_url']
+                break
         update_time = datetime.strptime(json_data['assets'][0]['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
         tag_name = json_data['tag_name']
 
