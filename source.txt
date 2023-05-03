@@ -32,3 +32,4 @@ Green Frog🐸 zotero-updateifsE| easyScholar Zotero插件🐸显示期刊分区
 Zotero Format Metadata| 格式化条目元数据：设置标题上下标、查询期刊缩写和高校所在地、自动填充条目语言等|https://github.com/northword/zotero-format-metadata|https://github.com/northword/zotero-format-metadata|2023-05-01 04:36:14|zotero-format-metadata_0.3.1.xpi|0.3.1
 Zotero GPT|连接Zotero和GPT的桥梁|https://github.com/MuiseDestiny/zotero-gpt|https://github.com/MuiseDestiny/zotero-gpt|2023-04-30 05:49:02|zotero-gpt_0.2.6.xpi|0.2.6
 zotero-journalabbr| zotero期刊缩写|https://github.com/zoushucai/zotero-journalabbr|https://github.com/zoushucai/zotero-journalabbr|2023-04-29 12:28:01|zotero-journalabbr_0.6.6.xpi|0.6.2
+zotero-reading-list| Keep track of whether you've read items in Zotero|https://github.com/Dominic-DallOsto/zotero-reading-list |https://github.com/Dominic-DallOsto/zotero-reading-list
