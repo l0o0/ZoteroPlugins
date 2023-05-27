@@ -20,7 +20,7 @@ zotero-shortdoi|install.rdf|https://github.com/bwiernik/zotero-shortdoi|https://
 ZoteroObsidianCitations|install.rdf|https://github.com/daeh/zotero-obsidian-citations|https://github.com/daeh/zotero-obsidian-citations|2023-03-14 20:13:35|MarkDBConnect-0.0.24.xpi|v0.0.24
 ZoteroQuickLook|install.rdf|https://github.com/mronkko/ZoteroQuickLook|https://github.com/mronkko/ZoteroQuickLook|2019-12-13 14:02:37|zoteroquicklook.zoteroplugin_1.4.2.xpi|1.3.2
 ZoteroQuickLook重置版|install.rdf|https://github.com/404neko/ZoteroQuickLookReload|https://github.com/404neko/ZoteroQuickLookReload|2022-04-17 15:41:56|zoteroquicklook_1.4.8.xpi|1.4.3
-Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2023-05-07 04:07:14|zotero-better-notes_1.0.1.xpi|1.0.1
+Zotero Better Notes|Knowledge management for Zotero|https://github.com/windingwind/zotero-better-notes|https://github.com/windingwind/zotero-better-notes|2023-05-26 15:45:42|zotero-better-notes_1.0.2.xpi|1.0.2
 Zotero PDF Preview|Zotero PDF Preview 预览插件|https://github.com/windingwind/zotero-pdf-preview|https://github.com/windingwind/zotero-pdf-preview|2022-10-18 02:51:43|zotero-pdf-preview_0.3.7.xpi|0.3.6
 zotcard|Zotero 卡片笔记法插件(笔记模板，格式化等功能)|https://github.com/018/zotcard|https://github.com/018/zotcard|2023-02-07 09:50:49|zotcard-2.8.0.xpi|v2.8
 Chartero|Chartero Zotero阅读统计可视化插件|https://github.com/volatile-static/Chartero|https://github.com/volatile-static/Chartero|2023-03-23 03:10:50|Chartero_1.3.3.xpi|1.3.3
@@ -31,5 +31,5 @@ Zotero Citation| Zotero Citation 文献引用使用体验优化插件 |https://g
 Green Frog🐸 zotero-updateifsE| easyScholar Zotero插件🐸显示期刊分区，影响因子|https://github.com/redleafnew/zotero-updateifsE|https://github.com/redleafnew/zotero-updateifsE|2023-05-05 06:44:57|greenfrog_0.10.3.xpi|0.10.3
 Zotero Format Metadata| 格式化条目元数据：设置标题上下标、查询期刊缩写和高校所在地、自动填充条目语言等|https://github.com/northword/zotero-format-metadata|https://github.com/northword/zotero-format-metadata|2023-05-24 14:49:48|zotero-format-metadata_0.4.2.xpi|0.4.2
 Zotero GPT|连接Zotero和GPT的桥梁|https://github.com/MuiseDestiny/zotero-gpt|https://github.com/MuiseDestiny/zotero-gpt|2023-05-16 12:26:39|zotero-gpt_0.2.9.xpi|0.2.9
-zotero-journalabbr| zotero期刊缩写|https://github.com/zoushucai/zotero-journalabbr|https://github.com/zoushucai/zotero-journalabbr|2023-05-04 07:38:23|zotero-journalabbr_0.6.7.xpi|0.6.7
+zotero-journalabbr| zotero期刊缩写|https://github.com/zoushucai/zotero-journalabbr|https://github.com/zoushucai/zotero-journalabbr|2023-05-26 15:17:42|zotero-journalabbr_0.6.9.xpi|0.6.9
 zotero-reading-list| Keep track of whether you've read items in Zotero|https://github.com/Dominic-DallOsto/zotero-reading-list|https://github.com/Dominic-DallOsto/zotero-reading-list|2023-01-08 20:34:19|zotero-reading-list-0.3.0.xpi|v0.2.0
