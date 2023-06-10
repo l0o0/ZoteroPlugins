@@ -33,3 +33,4 @@ Zotero Format Metadata| 格式化条目元数据：设置标题上下标、查�
 Zotero GPT|连接Zotero和GPT的桥梁|https://github.com/MuiseDestiny/zotero-gpt|https://github.com/MuiseDestiny/zotero-gpt|2023-05-16 12:26:39|zotero-gpt_0.2.9.xpi|0.2.9
 zotero-journalabbr| zotero期刊缩写|https://github.com/zoushucai/zotero-journalabbr|https://github.com/zoushucai/zotero-journalabbr|2023-05-27 17:06:11|zotero-journalabbr_0.6.10.xpi|0.6.10
 zotero-reading-list| Keep track of whether you've read items in Zotero|https://github.com/Dominic-DallOsto/zotero-reading-list|https://github.com/Dominic-DallOsto/zotero-reading-list|2023-01-08 20:34:19|zotero-reading-list-0.3.0.xpi|v0.2.0
+zotero-figure|Zotero 图/表自动抓取插件|https://github.com/MuiseDestiny/zotero-figure|https://github.com/MuiseDestiny/zotero-figure
