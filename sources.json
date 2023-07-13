@@ -1,0 +1,290 @@
+[
+ {
+  "addon": "Jasminum",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/l0o0/jasminum",
+  "homepage": "https://gitee.com/l0o0/jasminum",
+  "filename": "jasminum-v0.2.6.xpi",
+  "version": "v0.2.6"
+ },
+ {
+  "addon": "ZotFile汉化版",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/lychichem/zotfile",
+  "homepage": "http://zotfile.com/",
+  "filename": "zotfile-v5.1.2.999-fx.xpi",
+  "version": "v5.1.2.999"
+ },
+ {
+  "addon": "Zutlio",
+  "metafile": "addon/install.rdf",
+  "repourl": "https://github.com/wshanks/Zutilo",
+  "homepage": "https://github.com/wshanks/Zutilo",
+  "filename": "zutilo_v3.10.0.xpi",
+  "version": "v3.10.0"
+ },
+ {
+  "addon": "Delitem",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/redleafnew/delitemwithatt",
+  "homepage": "https://github.com/redleafnew/delitemwithatt",
+  "filename": "delitemwithatt_0.2.0.xpi",
+  "version": "0.2.0"
+ },
+ {
+  "addon": "Zotero Update IFs",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/redleafnew/zotero-updateifs",
+  "homepage": "https://github.com/redleafnew/zotero-updateifs",
+  "filename": "zotero-updateifs_0.95.6.xpi",
+  "version": "0.95.6"
+ },
+ {
+  "addon": "Zotero OCR",
+  "desc": "This Zotero plugin adds the functionality to perform an OCR for the PDFs selected in Zotero.",
+  "repourl": "https://github.com/UB-Mannheim/zotero-ocr",
+  "homepage": "ttps://github.com/UB-Mannheim/zotero-ocr",
+  "filename": "zotero-ocr-0.6.0.xpi",
+  "version": "0.6.0"
+ },
+ {
+  "addon": "Zotero Tag",
+  "desc": "Manage all your Tags in one Zotero add-on.",
+  "repourl": "https://github.com/windingwind/zotero-tag",
+  "homepage": "https://github.com/windingwind/zotero-tag",
+  "filename": "zotero-tag_v0.3.0.xpi",
+  "version": "v0.3.0"
+ },
+ {
+  "addon": "Zotero PDF Translate",
+  "desc": "This is an add-on for Zotero 6. It provides PDF translation for Zotero's built-in PDF reader.",
+  "repourl": "https://github.com/windingwind/zotero-pdf-translate",
+  "homepage": "https://github.com/windingwind/zotero-pdf-translate",
+  "filename": "zotero-pdf-translate_v1.0.24.xpi",
+  "version": "v1.0.24"
+ },
+ {
+  "addon": "KeepZotero",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/yhmtsai/KeepZotero",
+  "homepage": "https://github.com/yhmtsai/KeepZotero",
+  "filename": "keepzotero-0.0.2-fx.xpi",
+  "version": "0.0.2"
+ },
+ {
+  "addon": "Zotero Scihub",
+  "desc": "This is an add-on for Zotero and Juris-M that enables automatic download of PDFs for items with a DOI.",
+  "repourl": "https://github.com/ethanwillis/zotero-scihub",
+  "homepage": "https://github.com/ethanwillis/zotero-scihub",
+  "filename": "zotero-scihub-1.4.4.xpi",
+  "version": "1.4.4"
+ },
+ {
+  "addon": "Zotero mdnote",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/argenos/zotero-mdnotes",
+  "homepage": "https://github.com/argenos/zotero-mdnotes",
+  "filename": "mdnotes-0.2.3.xpi",
+  "version": "0.2.3"
+ },
+ {
+  "addon": "scite-zotero-plugin",
+  "desc": "Plugin for scite + zotero",
+  "repourl": "https://github.com/scitedotai/scite-zotero-plugin",
+  "homepage": "https://github.com/scitedotai/scite-zotero-plugin",
+  "filename": "zotero-scite-1.11.6.xpi",
+  "version": "1.11.6"
+ },
+ {
+  "addon": "Zotero Citation Counts Manager",
+  "desc": "This is an add-on for Zotero, a research source management tool. The add-on can auto-fetch citation counts for journal articles using various APIs, including Crossref, Inspire HEP,and Semantic Scholar",
+  "repourl": "https://github.com/eschnett/zotero-citationcounts",
+  "homepage": "https://github.com/eschnett/zotero-citationcounts",
+  "filename": "zotero-citationcounts-1.3.0.xpi",
+  "version": "1.3.0"
+ },
+ {
+  "addon": "Zotero Storage Scanner",
+  "desc": "A Zotero plugin to remove the broken & duplicate attachment link of the bibliography",
+  "repourl": "https://github.com/retorquere/zotero-storage-scanner",
+  "homepage": "https://github.com/retorquere/zotero-storage-scanner",
+  "filename": "zotero-storage-scanner-5.0.12.xpi",
+  "version": "v5.0.12"
+ },
+ {
+  "addon": "Notero",
+  "desc": "A Zotero plugin for syncing items into Notion",
+  "repourl": "https://github.com/dvanoni/notero",
+  "homepage": "https://github.com/dvanoni/notero",
+  "filename": "notero-0.4.7.xpi",
+  "version": "v0.4.7"
+ },
+ {
+  "addon": "LyZ",
+  "metafile": "addon/install.rdf",
+  "repourl": "https://github.com/wshanks/lyz",
+  "homepage": "https://github.com/wshanks/lyz",
+  "filename": "lyz_v4.1.2.xpi",
+  "version": "v4.1.2"
+ },
+ {
+  "addon": "Better BibTeX for Zotero",
+  "desc": "Better BibTeX (BBT) is an extension for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).",
+  "repourl": "https://github.com/retorquere/zotero-better-bibtex",
+  "homepage": "https://retorque.re/zotero-better-bibtex/",
+  "filename": "zotero-better-bibtex-6.7.93.xpi",
+  "version": "v6.7.93"
+ },
+ {
+  "addon": "Zotero Night",
+  "desc": "Night theme for Zotero UI & Pdf",
+  "repourl": "https://github.com/ThomasFKJorna/zotero-night",
+  "homepage": "https://github.com/ThomasFKJorna/zotero-night",
+  "filename": "night_v0.4.23.xpi",
+  "version": "v0.4.23"
+ },
+ {
+  "addon": "zotero-shortdoi",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/bwiernik/zotero-shortdoi",
+  "homepage": "https://github.com/bwiernik/zotero-shortdoi",
+  "filename": "zotero-doi-manager-1.4.2.xpi",
+  "version": "v1.3.8"
+ },
+ {
+  "addon": "ZoteroObsidianCitations",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/daeh/zotero-obsidian-citations",
+  "homepage": "https://github.com/daeh/zotero-obsidian-citations",
+  "filename": "MarkDBConnect-0.0.24.xpi",
+  "version": "v0.0.24"
+ },
+ {
+  "addon": "ZoteroQuickLook",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/mronkko/ZoteroQuickLook",
+  "homepage": "https://github.com/mronkko/ZoteroQuickLook",
+  "filename": "zoteroquicklook.zoteroplugin_1.4.2.xpi",
+  "version": "1.3.2"
+ },
+ {
+  "addon": "ZoteroQuickLook重置版",
+  "metafile": "install.rdf",
+  "repourl": "https://github.com/404neko/ZoteroQuickLookReload",
+  "homepage": "https://github.com/404neko/ZoteroQuickLookReload",
+  "filename": "zoteroquicklook_1.4.8.xpi",
+  "version": "1.4.3"
+ },
+ {
+  "addon": "Zotero Better Notes",
+  "desc": "Knowledge management for Zotero",
+  "repourl": "https://github.com/windingwind/zotero-better-notes",
+  "homepage": "https://github.com/windingwind/zotero-better-notes",
+  "filename": "zotero-better-notes_1.1.3.xpi",
+  "version": "1.1.3"
+ },
+ {
+  "addon": "Zotero PDF Preview",
+  "desc": "Zotero PDF Preview 预览插件",
+  "repourl": "https://github.com/windingwind/zotero-pdf-preview",
+  "homepage": "https://github.com/windingwind/zotero-pdf-preview",
+  "filename": "zotero-pdf-preview_0.3.7.xpi",
+  "version": "0.3.6"
+ },
+ {
+  "addon": "zotcard",
+  "desc": "Zotero 卡片笔记法插件(笔记模板，格式化等功能)",
+  "repourl": "https://github.com/018/zotcard",
+  "homepage": "https://github.com/018/zotcard",
+  "filename": "zotcard-2.8.1.xpi",
+  "version": "v2.8"
+ },
+ {
+  "addon": "Chartero",
+  "desc": "Chartero Zotero阅读统计可视化插件",
+  "repourl": "https://github.com/volatile-static/Chartero",
+  "homepage": "https://github.com/volatile-static/Chartero",
+  "filename": "Chartero_1.3.3.xpi",
+  "version": "1.3.3"
+ },
+ {
+  "addon": "Zotero Style",
+  "desc": "🍕🍕🍕Zotero 窗口界面优化插件🍕🍕🍕🍕🍕🍕",
+  "repourl": "https://github.com/MuiseDestiny/ZoteroStyle",
+  "homepage": "https://github.com/MuiseDestiny/ZoteroStyle",
+  "filename": "zotero-style_2.6.8.xpi",
+  "version": "2.6.8"
+ },
+ {
+  "addon": "zotero-reference",
+  "desc": "🎫🎫Zotero 参考文献自动抓取插件🎫🎫",
+  "repourl": "https://github.com/MuiseDestiny/zotero-reference",
+  "homepage": "https://github.com/MuiseDestiny/zotero-reference",
+  "filename": "zotero-reference_0.5.8.xpi",
+  "version": "0.5.8"
+ },
+ {
+  "addon": "Tara",
+  "desc": "蒲公英：Zotero配置及插件备份恢复工具",
+  "repourl": "https://github.com/l0o0/tara",
+  "homepage": "https://github.com/l0o0/tara",
+  "filename": "tara_v0.0.3.xpi",
+  "version": "v0.0.3"
+ },
+ {
+  "addon": "Zotero Citation",
+  "desc": " Zotero Citation 文献引用使用体验优化插件 ",
+  "repourl": "https://github.com/MuiseDestiny/zotero-citation",
+  "homepage": "https://github.com/MuiseDestiny/zotero-citation",
+  "filename": "zotero-citation-z7_0.3.1.xpi",
+  "version": "0.3.1"
+ },
+ {
+  "addon": "Green Frog🐸 zotero-updateifsE",
+  "desc": "easyScholar Zotero插件🐸显示期刊分区，影响因子",
+  "repourl": "https://github.com/redleafnew/zotero-updateifsE",
+  "homepage": "https://github.com/redleafnew/zotero-updateifsE",
+  "filename": "greenfrog_0.14.0.xpi",
+  "version": "0.14.0"
+ },
+ {
+  "addon": "Zotero Format Metadata",
+  "desc": " 格式化条目元数据：设置标题上下标、查询期刊缩写和高校所在地、自动填充条目语言等",
+  "repourl": "https://github.com/northword/zotero-format-metadata",
+  "homepage": "https://github.com/northword/zotero-format-metadata",
+  "filename": "zotero-format-metadata_1.0.3.xpi",
+  "version": "1.0.3"
+ },
+ {
+  "addon": "Zotero GPT",
+  "desc": "连接Zotero和GPT的桥梁",
+  "repourl": "https://github.com/MuiseDestiny/zotero-gpt",
+  "homepage": "https://github.com/MuiseDestiny/zotero-gpt",
+  "filename": "zotero-gpt-129_0.2.9.xpi",
+  "version": "0.2.9"
+ },
+ {
+  "addon": "zotero-journalabbr",
+  "desc": " zotero期刊缩写",
+  "repourl": "https://github.com/zoushucai/zotero-journalabbr",
+  "homepage": "https://github.com/zoushucai/zotero-journalabbr",
+  "filename": "zotero-journalabbr_0.6.14.xpi",
+  "version": "0.6.14"
+ },
+ {
+  "addon": "zotero-reading-list",
+  "desc": "Keep track of whether you've read items in Zotero",
+  "repourl": "https://github.com/Dominic-DallOsto/zotero-reading-list",
+  "homepage": "https://github.com/Dominic-DallOsto/zotero-reading-list",
+  "filename": "zotero-reading-list-0.3.0.xpi",
+  "version": "v0.2.0"
+ },
+ {
+  "addon": "zotero-figure",
+  "desc": "Zotero 图/表自动抓取插件",
+  "repourl": "https://github.com/MuiseDestiny/zotero-figure",
+  "homepage": "https://github.com/MuiseDestiny/zotero-figure",
+  "filename": "zotero-figure_0.0.7.xpi",
+  "version": "0.0.7"
+ }
+]
