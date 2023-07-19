@@ -1,6 +1,6 @@
 # Zotero 插件下载
 
-自动更新于： `2023-07-18 02:44:56.139087`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
+自动更新于： `2023-07-19 03:28:49.432905`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装
 
 Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip), 谷歌浏览器插件手动[安装教程](https://zhuanlan.zhihu.com/p/80305764)
 
