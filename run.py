@@ -132,7 +132,7 @@ print(new_plugins_source)
 if update_flag == 1:
 
     markdown = "# Zotero 插件下载\n\n"
-    markdown += "自动更新于： `%s`，国内用户建议使用 国内镜像Gitee 下载链接。插件间可能存在冲突，强烈建议按需获取安装\n\n" % datetime.now()
+    markdown += "自动更新于： `%s`，国内用户建议使用 **国内镜像** 下载链接。插件间可能存在冲突，强烈建议按需获取安装\n\n" % datetime.now()
     crxurl = "https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip"
     crxhelp = "https://zhuanlan.zhihu.com/p/80305764"
     # apkurl = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/zooforzotero_43_apps.evozi.com.apk"
