@@ -143,11 +143,12 @@ if update_flag == 1:
     markdown += "| ----- | ----- | ----- | ----- | ----- | ----- |\n"
     
     github_url = "https://github.com/l0o0/ZoteroPlugins/raw/main/plugins"
-    gitee_url = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins"
+    # home_url = "https://gitee.com/zotero-chinese/zotero-plugins/raw/main/plugins"
+    home_url = "http://95.169.23.195:18909/plugins"
     for _i, plugin in enumerate(new_plugins_source):
         new_plugins_source[_i]['desc'] = desc
         download_link_github = github_url + "/%s/%s" % (plugin['addon'].replace(" ", '_').lower(), plugin['filename'])
-        download_link_gitee = gitee_url + "/%s/%s" % (plugin['addon'].replace(" ", '_').lower(), plugin['filename'])
+        download_link_gitee = home_url + "/%s/%s" % (plugin['addon'].replace(" ", '_').lower(), plugin['filename'])
         markdown += "| %s | %s | %s [官方🔗](%s), [国内镜像🔗](%s) | 📅`%s` | [💻](%s) | [🏠](%s) |\n" \
             % (plugin['addon'], desc, plugin['version'], download_link_github, download_link_gitee, plugin['updatetime'], plugin['repourl'], plugin['homepage'])
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
