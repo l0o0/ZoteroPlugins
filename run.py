@@ -139,6 +139,15 @@ if update_flag == 1:
     apkurl = "http://95.169.23.195:18909/zooforzotero_43_apps.evozi.com.apk"
     markdown += "Zotero Connector 谷歌浏览器插件安装文件[下载地址]({0}), 谷歌浏览器插件手动[安装教程]({1})\n\n".format(crxurl, crxhelp)
     markdown += "Android 客户端Zoo for Zotero[下载地址]({0})\n\n".format(apkurl)
+    markdown += """微信公众号：学术废物收容所 <button onclick="document.getElementById('show_image_popup').style.display='block'">扫码加入</button>
+<div id="show_image_popup" style="display: none; position: absolute; top: 10%; left: 50%; z-index: 1000; transform: translate(-50%, -50%);">
+  <div class="close-btn-area" style="text-align: right;max-width: 80%;">
+    <button id="close-btn" style='color:red;' onclick="document.getElementById('show_image_popup').style.display='none'">X</button> 
+  </div>
+  <div id="image-show-area" style="max-width: 80%;">
+    <img id="large-image" alt="" src="./wechat.jpg">
+  </div>
+</div>"""
     markdown += "Zotero 中文插件群913637964，617148016，893963769，666489129，145248977，962963257（加一个群即可）。独学而无友，则孤陋而寡闻\n\n"
     markdown += "| 插件名 | 简介 |  最新版下载链接 | 更新时间 | GitHub链接 | 主页 |\n"
     markdown += "| ----- | ----- | ----- | ----- | ----- | ----- |\n"
