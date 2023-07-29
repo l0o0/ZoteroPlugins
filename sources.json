@@ -286,5 +286,12 @@
   "homepage": "https://github.com/MuiseDestiny/zotero-figure",
   "filename": "zotero-figure_0.0.7.xpi",
   "version": "0.0.7"
+ },
+  {
+  "addon": "zotero-file",
+  "desc": "支持 Zotero 7 的 ZotFile：PDF附件重命名/移动",
+  "repourl": "https://github.com/MuiseDestiny/zotero-file",
+  "homepage": "https://github.com/MuiseDestiny/zotero-file",
+  "metafile": "package.json"
  }
 ]
