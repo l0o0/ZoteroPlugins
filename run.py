@@ -79,15 +79,14 @@ def readMetadata(zfile, tags):
     metafile = 'manifest.json' if 'zotero7' in tags else 'install.rdf'
     data = zfile.read(metafile).decode('utf-8')
     if metafile.endswith("rdf"):
-        idm = re.search("<em:id>(.*?)</em:id>", data)
-        if idm:
-            info['id'] = idm.groups()[0]
-        authorm = re.search("<em:creator>(.*?)</em:creator>", data)
-        if authorm:
-            info['author'] = authorm.groups()[0]
-        namem = re.search("<em:name>(.*?)</em:name>", data)
-        if namem:
-            info['name'] = namem.groups()[0]
+        idm1 = re.search('em:id="(.*?)"', data)
+        idm2 = re.search("<em:id>(.*?)</em:id>", data)
+        if idm1 or idm2:
+            info['id'] = idm1.groups()[0] if idm1 else idm2.groups()[0]
+        authorm1 = re.search('em:creator="(.*?)"', data)
+        authorm2 = re.search("<em:creator>(.*?)</em:creator>", data)
+        if authorm1 or authorm2:
+            info['author'] = authorm1.groups()[0] if authorm1 else authorm2.groups()[0]
         descm = re.findall("<em:description>(.*?)</em:description>", data)
         descm.sort(reverse=True)
         if descm:
@@ -97,7 +96,6 @@ def readMetadata(zfile, tags):
         info['id'] = manifest['applications']['zotero']['id']
         info['author'] = manifest.get('author', '---')
         info['description'] = manifest.get('description', '---')
-        info['name'] = manifest.get('name', '---')
     return info
 
 def checkCapVersion(zfile):
@@ -140,8 +138,10 @@ for plugin in plugins:
     # Keep the latest verion and remove the old.
     resp = requests.get(latest_url, headers=headers)
     pre_resp = requests.get(all_url, headers=headers)
+    total_download = sum([r['assets'][0]['download_count'] for r in pre_resp.json()])
     pre_datas = sorted(filter(
         lambda i: i['prerelease'], pre_resp.json()), key=lambda i: i['created_at'], reverse=True)
+    
     latest_data = resp.json()
     pre_data = pre_datas[0] if pre_datas else None  # 可能就没有预览版
 
@@ -160,7 +160,7 @@ for plugin in plugins:
         cmdstr = 'ls {0} | grep -xv "{1}" | xargs -i rm {0}/{{}}'.format(
             plugin_dir, os.path.basename(local_filename))
         os.system(cmdstr)
-        plugin['downloadCount'] = latest_data['assets'][0]['download_count']
+        plugin['downloadCount'] = total_download
         # Read metadata from zipfile
         zfile = zipfile.ZipFile(local_filename, 'r')
         plugin['tags'] = checkCapVersion(zfile)
@@ -203,7 +203,7 @@ for plugin in plugins:
             z7plugin['id'] = z7id
             z7plugin['version'] = pre_data['tag_name']
             z7plugin['updatedAt'] = pre_data['created_at']
-            z7plugin['downloadCount'] = pre_data['assets'][0]['download_count']
+            z7plugin['downloadCount'] = total_download
             z7plugin['tags'] = tags
             z7plugin['xpiDownloadUrl'] = download_url
             z7plugin['filename'] = local_filename
@@ -281,7 +281,7 @@ if update_flag == 1:
                 download_link_gitee, \
                 plugin.get('updatedAt', '---'), \
                 z7str, \
-                z7updatet, \
+                '---' if z7str == '---' else z7updatet, \
                 plugin['repo'])
     
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
@@ -297,3 +297,4 @@ if update_flag == 1:
 
     # 将以上更新结果推送到库里
     os.system("git push origin main")
+
