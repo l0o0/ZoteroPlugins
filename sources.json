@@ -1,122 +1,514 @@
 [
-    {
-      "name": "Better BibTex for Zotero",
-      "repo": "https://github.com/retorquere/zotero-better-bibtex"
-    },
-    {
-      "name": "PDF Figure",
-      "repo": "https://github.com/MuiseDestiny/zotero-figure"
-    },
-    {
-      "name": "Notero",
-      "repo": "https://github.com/dvanoni/notero"
-    },
-    {
-      "name": "Jasminum",
-      "repo": "https://github.com/l0o0/jasminum"
-    },
-    {
-      "name": "Zotero PDF Translate",
-      "repo": "https://github.com/windingwind/zotero-pdf-translate"
-    },
-    {
-      "name": "Night for Zotero",
-      "repo": "https://github.com/ThomasFKJorna/zotero-night"
-    },
-    {
-      "name": "Zotero Better Notes",
-      "repo": "https://github.com/windingwind/zotero-better-notes"
-    },
-    {
-      "name": "Zotero GPT",
-      "repo": "https://github.com/MuiseDestiny/zotero-gpt"
-    },
-    {
-      "name": "Zotero Style",
-      "repo": "https://github.com/MuiseDestiny/ZoteroStyle"
-    },
-    {
-      "name": "Zotero Reference",
-      "repo": "https://github.com/MuiseDestiny/zotero-reference"
-    },
-    {
-      "name": "Chartero",
-      "repo": "https://github.com/volatile-static/Chartero"
-    },
-    {
-      "name": "MarkDBConnect",
-      "repo": "https://github.com/daeh/zotero-obsidian-citations"
-    },
-    {
-      "name": "Tara",
-      "repo": "https://github.com/l0o0/tara"
-    },
-    {
-      "name": "zotcard",
-      "repo": "https://github.com/018/zotcard"
-    },
-    {
-      "name": "Reading List for Zotero",
-      "repo": "https://github.com/Dominic-DallOsto/zotero-reading-list"
-    },
-    {
-      "name": "Zotero更新影响因子",
-      "repo": "https://github.com/redleafnew/zotero-updateifs"
-    },
-    {
-      "name": "Zotero Tag",
-      "repo": "https://github.com/windingwind/zotero-tag"
-    },
-    {
-      "name": "ZotFile",
-      "repo": "https://github.com/lychichem/zotfile"
-    },
-    {
-      "name": "Zotero PDF Preview",
-      "repo": "https://github.com/windingwind/zotero-pdf-preview"
-    },
-    {
-      "name": "Storage Scanner for Zotero",
-      "repo": "https://github.com/retorquere/zotero-storage-scanner"
-    },
-    {
-      "name": "Zotero OCR",
-      "repo": "https://github.com/UB-Mannheim/zotero-ocr"
-    },
-    {
-      "name": "Mdnotes for Zotero",
-      "repo": "https://github.com/argenos/zotero-mdnotes"
-    },
-    {
-      "name": "scite Plugin for Zotero",
-      "repo": "https://github.com/scitedotai/scite-zotero-plugin"
-    },
-    {
-      "name": "Sci-Hub Plugin for Zotero",
-      "repo": "https://github.com/ethanwillis/zotero-scihub"
-    },
-    {
-      "name": "Zotero Citation Counts Manager",
-      "repo": "https://github.com/eschnett/zotero-citationcounts"
-    },
-    {
-      "name": "KeepZotero",
-      "repo": "https://github.com/yhmtsai/KeepZotero"
-    },
-    {
-      "name": "zotero-shortdoi",
-      "repo": "https://github.com/bwiernik/zotero-shortdoi"
-    },
-    {
-      "name": "LyZ",
-      "repo": "https://github.com/wshanks/lyz"
-    },
-    {
-      "name": "Zutilo Utility for Zotero",
-      "repo": "https://github.com/wshanks/Zutilo"
-    },
-    {
-      "name": "zotfile汉化版",
-      "repo": "https://github.com/lychichem/zotfile"
-    }
-  ]
+ {
+  "name": "Better BibTex for Zotero",
+  "repo": "https://github.com/retorquere/zotero-better-bibtex",
+  "version": "v6.7.114",
+  "updatedAt": "2023-08-23T19:27:53Z",
+  "xpiDownloadUrl": "https://github.com/retorquere/zotero-better-bibtex/releases/download/v6.7.114/zotero-better-bibtex-6.7.114.xpi",
+  "filename": "plugins/Better_BibTex_for_Zotero/zotero-better-bibtex-6.7.114.xpi",
+  "downloadCount": 479161,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "better-bibtex@iris-advies.com",
+  "author": "---",
+  "description": "Make Zotero useful for us LaTeX holdouts."
+ },
+ {
+  "name": "Chartero",
+  "id": "zotero7chartero@volatile.static",
+  "author": "volatile static",
+  "description": "Charts for Zotero",
+  "version": "2.0.0-beta",
+  "updatedAt": "2023-08-23T13:37:03Z",
+  "downloadCount": 6553,
+  "tags": [
+   "zotero7"
+  ],
+  "xpiDownloadUrl": "https://github.com/volatile-static/Chartero/releases/download/2.0.0-beta/chartero%402.0.0-beta.2.xpi",
+  "filename": "plugins/Chartero/pre/chartero%402.0.0-beta.2.xpi",
+  "repo": "https://github.com/volatile-static/Chartero"
+ },
+ {
+  "name": "Night for Zotero",
+  "id": "zotero7night@tefkah.com",
+  "author": "Thomas F. K. Jorna",
+  "description": "Zotero Night",
+  "version": "0.1.0-1",
+  "updatedAt": "2023-08-20T18:14:15Z",
+  "downloadCount": 296394,
+  "tags": [
+   "zotero7"
+  ],
+  "xpiDownloadUrl": "https://github.com/tefkah/zotero-night/releases/download/0.1.0-1/night-7.xpi",
+  "filename": "plugins/Night_for_Zotero/pre/night-7_0.1.0-1.xpi",
+  "repo": "https://github.com/ThomasFKJorna/zotero-night"
+ },
+ {
+  "name": "PDF Figure",
+  "repo": "https://github.com/MuiseDestiny/zotero-figure",
+  "version": "0.1.2",
+  "updatedAt": "2023-08-17T05:08:18Z",
+  "xpiDownloadUrl": "https://github.com/MuiseDestiny/zotero-figure/releases/download/0.1.2/zotero-figure.xpi",
+  "filename": "plugins/PDF_Figure/zotero-figure_0.1.2.xpi",
+  "downloadCount": 6233,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "zoterofigure@polygon.org",
+  "author": "Polygon",
+  "description": "一个基于 PDFFigure2 的 PDF 图表解析插件"
+ },
+ {
+  "name": "Notero",
+  "repo": "https://github.com/dvanoni/notero",
+  "version": "v0.4.11",
+  "updatedAt": "2023-08-15T06:42:56Z",
+  "xpiDownloadUrl": "https://github.com/dvanoni/notero/releases/download/v0.4.11/notero-0.4.11.xpi",
+  "filename": "plugins/Notero/notero-0.4.11.xpi",
+  "downloadCount": 183828,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "notero@vanoni.dev",
+  "author": "---",
+  "description": "Sync Zotero items into a Notion database"
+ },
+ {
+  "name": "Jasminum",
+  "id": "zotero7jasminum@linxzh.com",
+  "author": "l0o0",
+  "description": "一个简单的 Zotero 中文插件",
+  "version": "1.0.0-3",
+  "updatedAt": "2023-08-12T17:09:06Z",
+  "downloadCount": 803443,
+  "tags": [
+   "zotero7"
+  ],
+  "xpiDownloadUrl": "https://github.com/l0o0/jasminum/releases/download/1.0.0-3/jasminum.xpi",
+  "filename": "plugins/Jasminum/pre/jasminum_1.0.0-3.xpi",
+  "repo": "https://github.com/l0o0/jasminum"
+ },
+ {
+  "name": "Zotero PDF Preview",
+  "id": "zotero7pdfpreview@windingwind.com",
+  "author": "windingwind",
+  "description": "PDF Preview for Zotero.",
+  "version": "1.0.0-3",
+  "updatedAt": "2023-08-03T14:13:22Z",
+  "downloadCount": 110701,
+  "tags": [
+   "zotero7"
+  ],
+  "xpiDownloadUrl": "https://github.com/windingwind/zotero-pdf-preview/releases/download/1.0.0-3/zotero-pdf-preview.xpi",
+  "filename": "plugins/Zotero_PDF_Preview/pre/zotero-pdf-preview_1.0.0-3.xpi",
+  "repo": "https://github.com/windingwind/zotero-pdf-preview"
+ },
+ {
+  "name": "Jasminum",
+  "repo": "https://github.com/l0o0/jasminum",
+  "version": "v0.2.7",
+  "updatedAt": "2023-07-31T14:14:19Z",
+  "xpiDownloadUrl": "https://github.com/l0o0/jasminum/releases/download/v0.2.7/jasminum-v0.2.7.xpi",
+  "filename": "plugins/Jasminum/jasminum-v0.2.7.xpi",
+  "downloadCount": 803443,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6jasminum@linxzh.com",
+  "author": "Xingzhong Lin",
+  "description": "一个简单的 Zotero 中文插件"
+ },
+ {
+  "name": "Zotero PDF Translate",
+  "repo": "https://github.com/windingwind/zotero-pdf-translate",
+  "version": "v1.0.25",
+  "updatedAt": "2023-07-26T01:24:53Z",
+  "xpiDownloadUrl": "https://github.com/windingwind/zotero-pdf-translate/releases/download/v1.0.25/zotero-pdf-translate.xpi",
+  "filename": "plugins/Zotero_PDF_Translate/zotero-pdf-translate_v1.0.25.xpi",
+  "downloadCount": 691884,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "zoteropdftranslate@euclpts.com",
+  "author": "windingwind",
+  "description": "PDF translation for Zotero built-in PDF reader."
+ },
+ {
+  "name": "Night for Zotero",
+  "repo": "https://github.com/ThomasFKJorna/zotero-night",
+  "version": "v0.4.23",
+  "updatedAt": "2023-06-25T14:44:52Z",
+  "xpiDownloadUrl": "https://github.com/tefkah/zotero-night/releases/download/v0.4.23/night.xpi",
+  "filename": "plugins/Night_for_Zotero/night_v0.4.23.xpi",
+  "downloadCount": 296394,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6night@tefkah.com",
+  "author": "Thomas F. K. Jorna",
+  "description": "Night theme for Zotero UI &amp; Pdf"
+ },
+ {
+  "name": "Zotero Better Notes",
+  "repo": "https://github.com/windingwind/zotero-better-notes",
+  "version": "1.0.4",
+  "updatedAt": "2023-06-11T17:23:47Z",
+  "xpiDownloadUrl": "https://github.com/windingwind/zotero-better-notes/releases/download/1.0.4/zotero-better-notes.xpi",
+  "filename": "plugins/Zotero_Better_Notes/zotero-better-notes_1.0.4.xpi",
+  "downloadCount": 422534,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "Knowledge4Zotero@windingwind.com",
+  "author": "windingwind",
+  "description": "Everything about note management. All in Zotero."
+ },
+ {
+  "name": "Zotero GPT",
+  "repo": "https://github.com/MuiseDestiny/zotero-gpt",
+  "version": "0.2.9",
+  "updatedAt": "2023-05-14T01:42:06Z",
+  "xpiDownloadUrl": "https://github.com/MuiseDestiny/zotero-gpt/releases/download/0.2.9/zotero-gpt-129.xpi",
+  "filename": "plugins/Zotero_GPT/zotero-gpt-129_0.2.9.xpi",
+  "downloadCount": 41016,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "zoterogpt@polygon.org",
+  "author": "Polygon",
+  "description": "GPT Meet Zotero"
+ },
+ {
+  "name": "Zotero Style",
+  "repo": "https://github.com/MuiseDestiny/ZoteroStyle",
+  "version": "2.6.7",
+  "updatedAt": "2023-05-04T07:25:27Z",
+  "xpiDownloadUrl": "https://github.com/MuiseDestiny/zotero-style/releases/download/2.6.7/zotero-style-es-custom.xpi",
+  "filename": "plugins/Zotero_Style/zotero-style-es-custom_2.6.7.xpi",
+  "downloadCount": 131588,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "zoterostyle@polygon.org",
+  "author": "Polygon",
+  "description": "A Zotero plugin for creating a personal Zotero Style."
+ },
+ {
+  "name": "Zotero Reference",
+  "repo": "https://github.com/MuiseDestiny/zotero-reference",
+  "version": "0.5.8",
+  "updatedAt": "2023-05-04T03:52:32Z",
+  "xpiDownloadUrl": "https://github.com/MuiseDestiny/zotero-reference/releases/download/0.5.8/zotero-reference.xpi",
+  "filename": "plugins/Zotero_Reference/zotero-reference_0.5.8.xpi",
+  "downloadCount": 94067,
+  "tags": [
+   "zotero6",
+   "zotero7"
+  ],
+  "id": "zoteroreference@polygon.org",
+  "author": "Polygon",
+  "description": "侧边栏展示阅读文献的所有参考文献，多源浮窗，推荐关联..."
+ },
+ {
+  "name": "Chartero",
+  "repo": "https://github.com/volatile-static/Chartero",
+  "version": "1.3.3",
+  "updatedAt": "2023-03-23T02:27:36Z",
+  "xpiDownloadUrl": "https://github.com/volatile-static/Chartero/releases/download/1.3.3/Chartero.xpi",
+  "filename": "plugins/Chartero/Chartero_1.3.3.xpi",
+  "downloadCount": 6553,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6chartero@volatile.static",
+  "author": "volatile static",
+  "description": "一个好看的Zotero插件"
+ },
+ {
+  "name": "MarkDBConnect",
+  "repo": "https://github.com/daeh/zotero-obsidian-citations",
+  "version": "v0.0.24",
+  "updatedAt": "2023-03-14T20:12:07Z",
+  "xpiDownloadUrl": "https://github.com/daeh/zotero-markdb-connect/releases/download/v0.0.24/MarkDBConnect-0.0.24.xpi",
+  "filename": "plugins/MarkDBConnect/MarkDBConnect-0.0.24.xpi",
+  "downloadCount": 35828,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6daeda@mit.edu",
+  "author": "Dae Houlihan",
+  "description": "Add a tag to Zotero items that have a external note."
+ },
+ {
+  "name": "Tara",
+  "repo": "https://github.com/l0o0/tara",
+  "version": "v0.0.3",
+  "updatedAt": "2023-02-10T13:32:29Z",
+  "xpiDownloadUrl": "https://github.com/l0o0/tara/releases/download/v0.0.3/tara.xpi",
+  "filename": "plugins/Tara/tara_v0.0.3.xpi",
+  "downloadCount": 2191,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6tara@linxzh.com",
+  "author": "l0o0",
+  "description": "Zotero配置，插件等数据备份插件"
+ },
+ {
+  "name": "zotcard",
+  "repo": "https://github.com/018/zotcard",
+  "version": "v2.8",
+  "updatedAt": "2023-02-02T07:59:30Z",
+  "xpiDownloadUrl": "https://github.com/018/zotcard/releases/download/v2.8/zotcard-2.8.1.xpi",
+  "filename": "plugins/zotcard/zotcard-2.8.1.xpi",
+  "downloadCount": 27119,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6{7B7BE31E-0C0F-436B-8A26-4C199B543C9E}",
+  "author": "018"
+ },
+ {
+  "name": "Reading List for Zotero",
+  "repo": "https://github.com/Dominic-DallOsto/zotero-reading-list",
+  "version": "v0.3.0",
+  "updatedAt": "2023-01-08T20:33:32Z",
+  "xpiDownloadUrl": "https://github.com/Dominic-DallOsto/zotero-reading-list/releases/download/v0.3.0/zotero-reading-list-0.3.0.xpi",
+  "filename": "plugins/Reading_List_for_Zotero/zotero-reading-list-0.3.0.xpi",
+  "downloadCount": 40214,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6reading-list@hotmail.com",
+  "author": "Dominic Dall'Osto",
+  "description": "Keep track of whether you've read items in Zotero"
+ },
+ {
+  "name": "Zotero更新影响因子",
+  "repo": "https://github.com/redleafnew/zotero-updateifs",
+  "version": "0.95.6",
+  "updatedAt": "2022-12-10T08:59:02Z",
+  "xpiDownloadUrl": "https://github.com/redleafnew/zotero-updateifs/releases/download/0.95.6/zotero-updateifs.xpi",
+  "filename": "plugins/Zotero更新影响因子/zotero-updateifs_0.95.6.xpi",
+  "downloadCount": 68794,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zoteroupdateifs@redleafnew.me",
+  "author": "Minyi Han",
+  "description": "从http://sci.justscience.cn/更新期刊影响因子"
+ },
+ {
+  "name": "Zotero Tag",
+  "repo": "https://github.com/windingwind/zotero-tag",
+  "version": "v0.3.0",
+  "updatedAt": "2022-11-24T12:35:25Z",
+  "xpiDownloadUrl": "https://github.com/windingwind/zotero-tag/releases/download/v0.3.0/zotero-tag.xpi",
+  "filename": "plugins/Zotero_Tag/zotero-tag_v0.3.0.xpi",
+  "downloadCount": 158985,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zoterotag@euclpts.com",
+  "author": "windingwind"
+ },
+ {
+  "name": "ZotFile",
+  "repo": "https://github.com/lychichem/zotfile",
+  "version": "v5.1.2.999",
+  "updatedAt": "2022-11-02T03:28:06Z",
+  "xpiDownloadUrl": "https://github.com/lychichem/zotfile/releases/download/v5.1.2.999/zotfile-v5.1.2.999-fx.xpi",
+  "filename": "plugins/ZotFile/zotfile-v5.1.2.999-fx.xpi",
+  "downloadCount": 17902,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zotfile@columbia.edu",
+  "author": "Joscha Legewie",
+  "description": "Zotero的高级PDF管理工具"
+ },
+ {
+  "name": "zotfile汉化版",
+  "repo": "https://github.com/lychichem/zotfile",
+  "version": "v5.1.2.999",
+  "updatedAt": "2022-11-02T03:28:06Z",
+  "xpiDownloadUrl": "https://github.com/lychichem/zotfile/releases/download/v5.1.2.999/zotfile-v5.1.2.999-fx.xpi",
+  "filename": "plugins/zotfile汉化版/zotfile-v5.1.2.999-fx.xpi",
+  "downloadCount": 17903,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zotfile@columbia.edu",
+  "author": "Joscha Legewie",
+  "description": "Zotero的高级PDF管理工具"
+ },
+ {
+  "name": "Zotero PDF Preview",
+  "repo": "https://github.com/windingwind/zotero-pdf-preview",
+  "version": "0.3.7",
+  "updatedAt": "2022-10-18T02:51:37Z",
+  "xpiDownloadUrl": "https://github.com/windingwind/zotero-pdf-preview/releases/download/0.3.7/zotero-pdf-preview.xpi",
+  "filename": "plugins/Zotero_PDF_Preview/zotero-pdf-preview_0.3.7.xpi",
+  "downloadCount": 110701,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6pdfpreview@windingwind.com",
+  "author": "windingwind"
+ },
+ {
+  "name": "Storage Scanner for Zotero",
+  "repo": "https://github.com/retorquere/zotero-storage-scanner",
+  "version": "v5.0.12",
+  "updatedAt": "2022-05-22T21:03:59Z",
+  "xpiDownloadUrl": "https://github.com/retorquere/zotero-storage-scanner/releases/download/v5.0.12/zotero-storage-scanner-5.0.12.xpi",
+  "filename": "plugins/Storage_Scanner_for_Zotero/zotero-storage-scanner-5.0.12.xpi",
+  "downloadCount": 51700,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6storage-scanner@iris-advies.com",
+  "author": "Emiliano Heyns",
+  "description": "Scan attachments for duplicates"
+ },
+ {
+  "name": "Zotero OCR",
+  "repo": "https://github.com/UB-Mannheim/zotero-ocr",
+  "version": "0.6.0",
+  "updatedAt": "2022-05-22T17:25:55Z",
+  "xpiDownloadUrl": "https://github.com/UB-Mannheim/zotero-ocr/releases/download/0.6.0/zotero-ocr-0.6.0.xpi",
+  "filename": "plugins/Zotero_OCR/zotero-ocr-0.6.0.xpi",
+  "downloadCount": 31239,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zotero-ocr@bib.uni-mannheim.de",
+  "author": "Philipp Zumstein"
+ },
+ {
+  "name": "Mdnotes for Zotero",
+  "repo": "https://github.com/argenos/zotero-mdnotes",
+  "version": "0.2.3",
+  "updatedAt": "2022-05-03T13:31:52Z",
+  "xpiDownloadUrl": "https://github.com/argenos/zotero-mdnotes/releases/download/0.2.3/mdnotes-0.2.3.xpi",
+  "filename": "plugins/Mdnotes_for_Zotero/mdnotes-0.2.3.xpi",
+  "downloadCount": 83949,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6mdnotes@mdnotes.github.io",
+  "author": "A. Ortega",
+  "description": "Export Zotero items and notes to markdown"
+ },
+ {
+  "name": "scite Plugin for Zotero",
+  "repo": "https://github.com/scitedotai/scite-zotero-plugin",
+  "version": "v1.11.6",
+  "updatedAt": "2022-04-06T19:44:39Z",
+  "xpiDownloadUrl": "https://github.com/scitedotai/scite-zotero-plugin/releases/download/v1.11.6/zotero-scite-1.11.6.xpi",
+  "filename": "plugins/scite_Plugin_for_Zotero/zotero-scite-1.11.6.xpi",
+  "downloadCount": 864371,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6scite@scite.ai",
+  "author": "scite",
+  "description": "Plugin for scite + zotero"
+ },
+ {
+  "name": "Sci-Hub Plugin for Zotero",
+  "repo": "https://github.com/ethanwillis/zotero-scihub",
+  "version": "v1.4.4",
+  "updatedAt": "2022-04-06T12:14:53Z",
+  "xpiDownloadUrl": "https://github.com/ethanwillis/zotero-scihub/releases/download/v1.4.4/zotero-scihub-1.4.4.xpi",
+  "filename": "plugins/Sci-Hub_Plugin_for_Zotero/zotero-scihub-1.4.4.xpi",
+  "downloadCount": 2048298,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6scihub@example.com",
+  "author": "ethanwillis",
+  "description": "Download papers and books by DOI from Sci-Hub"
+ },
+ {
+  "name": "Zotero Citation Counts Manager",
+  "repo": "https://github.com/eschnett/zotero-citationcounts",
+  "version": "v1.3.0",
+  "updatedAt": "2022-04-05T00:49:40Z",
+  "xpiDownloadUrl": "https://github.com/eschnett/zotero-citationcounts/releases/download/v1.3.0/zotero-citationcounts-1.3.0.xpi",
+  "filename": "plugins/Zotero_Citation_Counts_Manager/zotero-citationcounts-1.3.0.xpi",
+  "downloadCount": 50097,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6schnetter@gmail.com",
+  "author": "Erik Schnetter"
+ },
+ {
+  "name": "KeepZotero",
+  "repo": "https://github.com/yhmtsai/KeepZotero",
+  "version": "v0.0.2",
+  "updatedAt": "2022-03-22T23:30:45Z",
+  "xpiDownloadUrl": "https://github.com/yhmtsai/KeepZotero/releases/download/v0.0.2/keepzotero-0.0.2-fx.xpi",
+  "filename": "plugins/KeepZotero/keepzotero-0.0.2-fx.xpi",
+  "downloadCount": 1282,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6keepzotero@yhmtsai",
+  "author": "Yu-Hsiang Mike Tsai",
+  "description": "Keep Zotero in Taskbar"
+ },
+ {
+  "name": "zotero-shortdoi",
+  "repo": "https://github.com/bwiernik/zotero-shortdoi",
+  "version": "v1.4.2",
+  "updatedAt": "2022-02-12T21:53:19Z",
+  "xpiDownloadUrl": "https://github.com/bwiernik/zotero-shortdoi/releases/download/v1.4.2/zotero-doi-manager-1.4.2.xpi",
+  "filename": "plugins/zotero-shortdoi/zotero-doi-manager-1.4.2.xpi",
+  "downloadCount": 203845,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zoteroshortdoi@wiernik.org",
+  "author": "Brenton M. Wiernik"
+ },
+ {
+  "name": "LyZ",
+  "repo": "https://github.com/wshanks/lyz",
+  "version": "v4.1.2",
+  "updatedAt": "2021-09-06T20:03:02Z",
+  "xpiDownloadUrl": "https://github.com/wshanks/lyz/releases/download/v4.1.2/lyz.xpi",
+  "filename": "plugins/LyZ/lyz_v4.1.2.xpi",
+  "downloadCount": 8618,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6lyz@zotero.org",
+  "author": "Petr Šimon",
+  "description": "LyX integration plugin."
+ },
+ {
+  "name": "Zutilo Utility for Zotero",
+  "repo": "https://github.com/wshanks/Zutilo",
+  "version": "v3.10.0",
+  "updatedAt": "2021-08-29T11:20:13Z",
+  "xpiDownloadUrl": "https://github.com/wshanks/Zutilo/releases/download/v3.10.0/zutilo.xpi",
+  "filename": "plugins/Zutilo_Utility_for_Zotero/zutilo_v3.10.0.xpi",
+  "downloadCount": 187072,
+  "tags": [
+   "zotero6"
+  ],
+  "id": "zotero6zutilo@www.wesailatdawn.com",
+  "author": "Will Shanks",
+  "description": "一个为Zotero增加了各种实用宏的工具箱"
+ }
+]
