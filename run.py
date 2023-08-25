@@ -289,7 +289,7 @@ if update_flag == 1:
     os.system("git add docs/README.md")
     os.system("git commit -m 'Update readme.md %s'" % datetime.now())
 
-    with open("sources22.json", 'w', encoding='utf-8') as handle:
+    with open("sources.json", 'w', encoding='utf-8') as handle:
         json.dump(new_plugins_source, handle, ensure_ascii=False, indent=True)
     # Add & commit sources.json
     os.system("git add sources.json")
