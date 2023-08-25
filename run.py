@@ -264,9 +264,12 @@ if update_flag == 1:
         z7download_link_github = z7plugin.get("xpiDownloadUrl")
         z7download_link_gitee = home_url + z7plugin.get('filename') if z7plugin.get("filename") else None
         if z7plugin:
-            z7str = "%s [官方🔗](%s), [国内镜像🔗](%s)" % (plugin.get("version", ""), z7download_link_github, z7download_link_gitee)
+            z7str = "%s [官方🔗](%s), [国内镜像🔗](%s)" % (z7plugin.get("version", ""), z7download_link_github, z7download_link_gitee
+)
+            z7updatet = z7plugin.get('updatedAt')
         elif 'zotero7' in plugin['tags'] :  # 6，7兼容就使用lastest 版本
              z7str = "%s [官方🔗](%s), [国内镜像🔗](%s)" % (plugin.get("version", ""), download_link_github, download_link_gitee)
+             z7updatet = plugin.get('updatedAt')
         else:
             z7str = "---"
         print(z7plugin.get("name", None), z7str)
@@ -278,7 +281,7 @@ if update_flag == 1:
                 download_link_gitee, \
                 plugin.get('updatedAt', '---'), \
                 z7str, \
-                z7plugin.get("updatedAt", '---'), \
+                z7updatet, \
                 plugin['repo'])
     
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
