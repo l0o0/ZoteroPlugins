@@ -199,6 +199,7 @@ for plugin in plugins:
             print("Zotero 7 start {0}".format(plugin['name']))
             z7plugin = {}
             info = readMetadata(zfile, tags)
+            print(info)
             z7plugin.update(info)
             z7plugin['id'] = z7id
             z7plugin['version'] = pre_data['tag_name']
