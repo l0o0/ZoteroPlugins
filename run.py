@@ -197,7 +197,7 @@ for plugin in plugins:
         print(tags, z7ver, pre_data['tag_name'])
         if tags == ['zotero7'] and z7ver != pre_data['tag_name']:
             print("Zotero 7 start {0}".format(plugin['name']))
-            z7plugin = {}
+            z7plugin = {"name": plugin["name"]}
             info = readMetadata(zfile, tags)
             print(info)
             z7plugin.update(info)
