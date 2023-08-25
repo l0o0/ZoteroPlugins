@@ -138,7 +138,7 @@ for plugin in plugins:
     # Keep the latest verion and remove the old.
     resp = requests.get(latest_url, headers=headers)
     pre_resp = requests.get(all_url, headers=headers)
-    total_download = sum([r['assets'][0]['download_count'] for r in pre_resp.json()])
+    total_download = sum([r['assets'][0]['download_count'] for r in pre_resp.json() if r['assets']])
     pre_datas = sorted(filter(
         lambda i: i['prerelease'], pre_resp.json()), key=lambda i: i['created_at'], reverse=True)
     
