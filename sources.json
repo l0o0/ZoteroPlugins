@@ -1,6 +1,122 @@
 [
     {
-        "name": "Jasminum",
-        "repo": "https://github.com/l0o0/jasminum"
+      "name": "Better BibTex for Zotero",
+      "repo": "https://github.com/retorquere/zotero-better-bibtex"
+    },
+    {
+      "name": "PDF Figure",
+      "repo": "https://github.com/MuiseDestiny/zotero-figure"
+    },
+    {
+      "name": "Notero",
+      "repo": "https://github.com/dvanoni/notero"
+    },
+    {
+      "name": "Jasminum",
+      "repo": "https://github.com/l0o0/jasminum"
+    },
+    {
+      "name": "Zotero PDF Translate",
+      "repo": "https://github.com/windingwind/zotero-pdf-translate"
+    },
+    {
+      "name": "Night for Zotero",
+      "repo": "https://github.com/ThomasFKJorna/zotero-night"
+    },
+    {
+      "name": "Zotero Better Notes",
+      "repo": "https://github.com/windingwind/zotero-better-notes"
+    },
+    {
+      "name": "Zotero GPT",
+      "repo": "https://github.com/MuiseDestiny/zotero-gpt"
+    },
+    {
+      "name": "Zotero Style",
+      "repo": "https://github.com/MuiseDestiny/ZoteroStyle"
+    },
+    {
+      "name": "Zotero Reference",
+      "repo": "https://github.com/MuiseDestiny/zotero-reference"
+    },
+    {
+      "name": "Chartero",
+      "repo": "https://github.com/volatile-static/Chartero"
+    },
+    {
+      "name": "MarkDBConnect",
+      "repo": "https://github.com/daeh/zotero-obsidian-citations"
+    },
+    {
+      "name": "Tara",
+      "repo": "https://github.com/l0o0/tara"
+    },
+    {
+      "name": "zotcard",
+      "repo": "https://github.com/018/zotcard"
+    },
+    {
+      "name": "Reading List for Zotero",
+      "repo": "https://github.com/Dominic-DallOsto/zotero-reading-list"
+    },
+    {
+      "name": "Zotero更新影响因子",
+      "repo": "https://github.com/redleafnew/zotero-updateifs"
+    },
+    {
+      "name": "Zotero Tag",
+      "repo": "https://github.com/windingwind/zotero-tag"
+    },
+    {
+      "name": "ZotFile",
+      "repo": "https://github.com/lychichem/zotfile"
+    },
+    {
+      "name": "Zotero PDF Preview",
+      "repo": "https://github.com/windingwind/zotero-pdf-preview"
+    },
+    {
+      "name": "Storage Scanner for Zotero",
+      "repo": "https://github.com/retorquere/zotero-storage-scanner"
+    },
+    {
+      "name": "Zotero OCR",
+      "repo": "https://github.com/UB-Mannheim/zotero-ocr"
+    },
+    {
+      "name": "Mdnotes for Zotero",
+      "repo": "https://github.com/argenos/zotero-mdnotes"
+    },
+    {
+      "name": "scite Plugin for Zotero",
+      "repo": "https://github.com/scitedotai/scite-zotero-plugin"
+    },
+    {
+      "name": "Sci-Hub Plugin for Zotero",
+      "repo": "https://github.com/ethanwillis/zotero-scihub"
+    },
+    {
+      "name": "Zotero Citation Counts Manager",
+      "repo": "https://github.com/eschnett/zotero-citationcounts"
+    },
+    {
+      "name": "KeepZotero",
+      "repo": "https://github.com/yhmtsai/KeepZotero"
+    },
+    {
+      "name": "zotero-shortdoi",
+      "repo": "https://github.com/bwiernik/zotero-shortdoi"
+    },
+    {
+      "name": "LyZ",
+      "repo": "https://github.com/wshanks/lyz"
+    },
+    {
+      "name": "Zutilo Utility for Zotero",
+      "repo": "https://github.com/wshanks/Zutilo"
+    },
+    {
+      "name": "zotfile汉化版",
+      "repo": "https://github.com/lychichem/zotfile"
     }
-]
+  ]
