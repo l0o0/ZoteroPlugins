@@ -274,7 +274,7 @@ if update_flag == 1:
         else:
             z7str = "---"
         print(z7plugin.get("name", None), z7str)
-        markdown += "| %s | %s | %s [官方🔗](%s), [国内镜像🔗](%s) | `%s` | %s | `%s` | [🏠](%s) |\n" %\
+        markdown += "| %s | %s | %s [官方🔗](%s), [国内镜像🔗](%s) | `%s` | %s | `%s` | [![GitHub Repo stars](https://img.shields.io/github/stars/%s)](%s) |\n" %\
             (plugin['name'], \
                 plugin.get('description', '---'), \
                 plugin.get('version', '---'), \
@@ -283,6 +283,7 @@ if update_flag == 1:
                 plugin.get('updatedAt', '---'), \
                 z7str, \
                 '---' if z7str == '---' else z7updatet, \
+                plugin['repo'].split('github.com/')[1]
                 plugin['repo'])
     
     with open("docs/README.md", 'w', encoding='utf-8') as handle:
