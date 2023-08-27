@@ -62,6 +62,14 @@
   "description": "一个基于 PDFFigure2 的 PDF 图表解析插件"
  },
  {
+  "name": "Green Frog",
+   "repo": "https://github.com/redleafnew/zotero-updateifsE"
+ },
+  {
+  "name": "delitemwithatt",
+   "repo": "https://github.com/redleafnew/delitemwithatt"
+ },
+ {
   "name": "Notero",
   "repo": "https://github.com/dvanoni/notero",
   "version": "v0.4.11",
