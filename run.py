@@ -118,7 +118,7 @@ if not os.path.isdir("plugins"):
 # Loop all plugins in sources.json
 plugins = readSource()
 new_plugins_source = []
-update_flag = 0
+update_flag = 1
 headers = getToken()
 
 for plugin in plugins:
@@ -211,7 +211,7 @@ for plugin in plugins:
 
             update_flag = 1
             print("Zotero 7 done {0}".format(z7plugin['name']))
-            
+
     new_plugins_source.append(plugin)
     # Add & commit plugin
     os.system("git add %s" % plugin_dir)
