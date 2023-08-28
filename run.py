@@ -175,7 +175,6 @@ for plugin in plugins:
             plugin['id'] = 'zotero7' + plugin['id']
         
         update_flag = 1
-        new_plugins_source.append(plugin)
         print("Zotero 6 done {0}".format(plugin['name']))
         
 
@@ -211,9 +210,9 @@ for plugin in plugins:
             z7plugin['repo'] = plugin['repo']
 
             update_flag = 1
-            new_plugins_source.append(z7plugin)
             print("Zotero 7 done {0}".format(z7plugin['name']))
-
+            
+    new_plugins_source.append(plugin)
     # Add & commit plugin
     os.system("git add %s" % plugin_dir)
     os.system("git commit -m 'update %s'" % plugin['name'])
@@ -227,7 +226,7 @@ print(new_plugins_source)
 if update_flag == 1:
     delta = timedelta(hours=8)
     markdown = "# Zotero 插件下载\n\n"
-    #markdown += "# 💥💥 插件后台更新维护中 ...."
+    markdown += "# 💥💥 插件后台更新维护中 ....\n"
     markdown += "自动更新于： `%s`，国内用户建议使用 **国内镜像** 下载链接。插件间可能存在冲突，强烈建议按需获取安装\n\n" % (datetime.now() + delta)
     crxurl = "https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/ekhagklcjbdpajgpjgmbionohlpdbjgc_v5.0.97.zip"
     crxhelp = "https://zhuanlan.zhihu.com/p/80305764"
