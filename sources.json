@@ -1,20 +1,5 @@
 [
  {
-  "name": "Zotero File",
-  "repo": "https://github.com/MuiseDestiny/zotero-file",
-  "version": "0.2.5",
-  "updatedAt": "2023-08-25T11:10:49Z",
-  "xpiDownloadUrl": "https://github.com/MuiseDestiny/zotero-file/releases/download/0.2.5/zotero-file.xpi",
-  "filename": "plugins/Zotero_File/zotero-file_0.2.5.xpi",
-  "downloadCount": 6606,
-  "tags": [
-   "zotero7"
-  ],
-  "id": "zotero7zoterofile@polygon.org",
-  "author": "Polygon",
-  "description": "Zotero 7 Meet ZotFile"
- },
- {
   "name": "Better BibTex for Zotero",
   "repo": "https://github.com/retorquere/zotero-better-bibtex",
   "version": "v6.7.114",
@@ -29,21 +14,6 @@
   "id": "better-bibtex@iris-advies.com",
   "author": "---",
   "description": "Make Zotero useful for us LaTeX holdouts."
- },
- {
-  "name": "Green Frog",
-  "repo": "https://github.com/redleafnew/zotero-updateifsE",
-  "version": "0.16.02",
-  "updatedAt": "2023-08-21T08:17:42Z",
-  "xpiDownloadUrl": "https://github.com/redleafnew/zotero-updateifsE/releases/download/0.16.02/greenfrog.xpi",
-  "filename": "plugins/Green_Frog/greenfrog_0.16.02.xpi",
-  "downloadCount": 77778,
-  "tags": [
-   "zotero7"
-  ],
-  "id": "zotero7greenfrog@redleafnew.me",
-  "author": "Minyi Han",
-  "description": "Zotero plugin for update journal information from easyScholar"
  },
  {
   "name": "PDF Figure",
@@ -76,21 +46,6 @@
   "id": "notero@vanoni.dev",
   "author": "---",
   "description": "Sync Zotero items into a Notion database"
- },
- {
-  "name": "Delitemwithatt",
-  "repo": "https://github.com/redleafnew/delitemwithatt",
-  "version": "0.2.4",
-  "updatedAt": "2023-08-13T13:08:00Z",
-  "xpiDownloadUrl": "https://github.com/redleafnew/delitemwithatt/releases/download/0.2.4/delitemwithatt.xpi",
-  "filename": "plugins/Delitemwithatt/delitemwithatt_0.2.4.xpi",
-  "downloadCount": 76068,
-  "tags": [
-   "zotero7"
-  ],
-  "id": "zotero7delitemwithatt@redleaf.me",
-  "author": "Minyi Han",
-  "description": "Delete item(s) with attachment(s)"
  },
  {
   "name": "Jasminum",
