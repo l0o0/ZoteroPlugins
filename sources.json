@@ -518,5 +518,9 @@
   "id": "zotero6zutilo@www.wesailatdawn.com",
   "author": "Will Shanks",
   "description": "一个为Zotero增加了各种实用宏的工具箱"
+ },
+ {
+  "name": "Zotero File",
+  "repo": "https://github.com/MuiseDestiny/zotero-file"
  }
 ]
