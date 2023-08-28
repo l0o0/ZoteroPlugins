@@ -211,7 +211,7 @@ for plugin in plugins:
 
             update_flag = 1
             print("Zotero 7 done {0}".format(z7plugin['name']))
-
+    print("Add to new plugins source")
     new_plugins_source.append(plugin)
     # Add & commit plugin
     os.system("git add %s" % plugin_dir)
