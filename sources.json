@@ -2,11 +2,11 @@
  {
   "name": "Better BibTex for Zotero",
   "repo": "https://github.com/retorquere/zotero-better-bibtex",
-  "version": "v6.7.117",
-  "updatedAt": "2023-09-08T11:25:23Z",
-  "xpiDownloadUrl": "https://github.com/retorquere/zotero-better-bibtex/releases/download/v6.7.117/zotero-better-bibtex-6.7.117.xpi",
-  "filename": "plugins/Better_BibTex_for_Zotero/zotero-better-bibtex-6.7.117.xpi",
-  "downloadCount": 503725,
+  "version": "v6.7.118",
+  "updatedAt": "2023-09-09T09:11:41Z",
+  "xpiDownloadUrl": "https://github.com/retorquere/zotero-better-bibtex/releases/download/v6.7.118/zotero-better-bibtex-6.7.118.xpi",
+  "filename": "plugins/Better_BibTex_for_Zotero/zotero-better-bibtex-6.7.118.xpi",
+  "downloadCount": 503017,
   "tags": [
    "zotero6",
    "zotero7"
