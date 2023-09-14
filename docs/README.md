@@ -8,11 +8,11 @@ Zotero Connector 谷歌浏览器插件安装文件[下载地址](https://crxdl-1
 Android 客户端Zoo for Zotero[下载地址](https://ftp.linxingzhong.top/zooforzotero_43_apps.evozi.com.apk)
 
 微信公众号：学术废物收容所 <button onclick="document.getElementById('show_image_popup').style.display='block'">扫码加入</button>
-<div id="show_image_popup" style="display: none; position: absolute; top: 10%; left: 50%; z-index: 1000; transform: translate(-50%, -50%);">
-  <div class="close-btn-area" style="text-align: right;max-width: 80%;">
+<div id="show_image_popup" style="display: none; position: absolute; top: 30%; left: 50%; z-index: 1000; transform: translate(-50%, -50%);">
+  <div class="close-btn-area" style="text-align: right;max-width: 60%;">
     <button id="close-btn" style='color:red;' onclick="document.getElementById('show_image_popup').style.display='none'">X</button> 
   </div>
-  <div id="image-show-area" style="max-width: 80%;">
+  <div id="image-show-area" style="max-width: 60%;">
     <img id="large-image" alt="" src="./wechat.jpg">
   </div>
 </div>Zotero 中文插件群913637964，617148016，893963769，666489129，145248977，317995116，962963257（加一个群即可）。独学而无友，则孤陋而寡闻
