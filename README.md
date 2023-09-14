@@ -1,9 +1,10 @@
 # Zotero Plugins
 
-Collections of Zotero Plugins
+**感谢大家的关注，本仓库已停止维护**
 
-More detail in ...
-[Zotero中文社区插件汇总](https://zoteroplugins.netlify.app/#/)
+新的插件汇总仓库为 [https://github.com/zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
+
+[新的Zotero中文小组插件汇总网站](https://plugins.zotero-chinese.com/#/)
 
 ## 如何提交没有收录的插件信息
 
